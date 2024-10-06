@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/Server item" itemID="63d3b015-00000c21" linkageExportForAS="true" linkageClassName="server_list_item" lastModified="1674817557">
+  <timeline>
+    <DOMTimeline name="Server item">
+      <layers>
+        <DOMLayer name="Layer 1" color="#ACF167">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt" width="247.95" height="10.45" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="4.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1. Server name</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="10.45" rightMargin="5" size="9" bitmapSize="180" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#549EB8">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt" width="247.95" height="10.45" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="4.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1. Server name</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="10.45" rightMargin="5" size="9" bitmapSize="180" face="DejaVuSansMono" fillColor="#A6A6A6"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 2113" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#517CE4" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Buttons/Symbol 2111" name="clickable_area" symbolType="button">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

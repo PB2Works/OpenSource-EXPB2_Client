@@ -1,0 +1,103 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/Buttons/Symbol 2663" itemID="63c25e2b-00000e74" symbolType="button" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2663">
+      <layers>
+        <DOMLayer name="Layer 1" color="#EEE67C">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="69.1" height="9.85" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="6.8" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Map page</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.6" leftMargin="17" lineSpacing="0" lineHeight="9.85" size="9" bitmapSize="180" face="EuropeExt Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText width="69.1" height="9.85" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="6.8" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Map page</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="17" lineSpacing="0" lineHeight="9.85" size="9" bitmapSize="180" face="EuropeExt Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText width="69.1" height="9.85" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="6.8" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Map page</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="17" lineSpacing="0" lineHeight="9.85" size="9" bitmapSize="180" face="EuropeExt Regular" fillColor="#A3D0FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#5D68BC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 2590" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 2590" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 2590" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 2590" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

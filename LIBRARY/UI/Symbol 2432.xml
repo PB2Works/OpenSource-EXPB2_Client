@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/Symbol 2432" itemID="63c25e2b-00000e3d" lastModified="1682615125">
+  <timeline>
+    <DOMTimeline name="Symbol 2432">
+      <layers>
+        <DOMLayer name="Layer 1" color="#8678DD" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 2235" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="3.93263244628906" d="5.31278991699219" tx="415.65" ty="120.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9958FD" parentLayerIndex="0" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Symbol 2101" name="ch0" selected="true" centerPoint3DX="368" centerPoint3DY="15.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

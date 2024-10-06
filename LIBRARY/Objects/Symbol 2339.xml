@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 2339" itemID="63c25e2b-00000e30" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2339">
+      <layers>
+        <DOMLayer name="Layer 1" color="#D831B3" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Server item" name="server_btn0" centerPoint3DX="131.5" centerPoint3DY="9">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

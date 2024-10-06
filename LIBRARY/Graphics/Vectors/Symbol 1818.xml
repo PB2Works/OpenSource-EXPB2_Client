@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 1818" itemID="63c25e2b-00000d5e" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1818">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#003399"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!54 -52[76 -30 76 1!76 1[76 32 54 54!54 54[32 75 1 75!1 75[-30 75 -52 54!-52 54[-74 32 -74 1!-74 1[-74 -30 -52 -52!-52 -52[-30 -74 1 -74!1 -74[32 -74 54 -52!44 -15|50 0!50 0|44 15!44 15|29 21!29 21[20 21 14 15!14 15[7 9 7 0!7 0[7 -9 14
+ -15!14 -15[20 -22 29 -22!29 -22[38 -22 44 -15"/>
+                    <Edge fillStyle0="1" edges="
+!43 -41[60 -24 60 1!60 1[60 25 43 42!43 42[25 60 1 60!1 60[-24 60 -41 42!-41 42[-58 25 -58 1!-58 1[-58 -24 -41 -41!-41 -41[-24 -59 1 -59!1 -59[25 -59 43 -41"/>
+                    <Edge fillStyle1="1" edges="
+!-36 -10|-29 -7!-29 -7|-26 0!-26 0|-29 7!-29 7|-36 9!-36 9|-43 7!-43 7|-45 0!-45 0|-43 -7!-43 -7|-36 -10"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

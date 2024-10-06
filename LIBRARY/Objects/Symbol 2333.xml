@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 2333" itemID="63c25e2b-00000e2f" lastModified="1675721089">
+  <timeline>
+    <DOMTimeline name="Symbol 2333">
+      <layers>
+        <DOMLayer name="Layer 1" color="#38ED5C" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="539.75" height="11.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>You are about to join old version of Multiplayer (can seem better or worse than new one).</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" letterSpacing="-0.05" lineHeight="11.65" size="10" bitmapSize="200" face="DejaVuSansMono" fillColor="#8A8A00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="67" letterSpacing="-0.05" lineHeight="11.65" size="10" bitmapSize="200" face="DejaVuSansMono" fillColor="#8A8A00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

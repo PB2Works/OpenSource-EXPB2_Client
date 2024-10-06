@@ -1,0 +1,225 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Guns/Symbol 541" itemID="63c25e2b-00000b05" linkageExportForAS="true" linkageClassName="gun_vehcannon" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 541">
+      <layers>
+        <DOMLayer name="Layer 1" color="#5D83E9">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 539" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 540" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#88BE4A">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 538" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="41.75" ty="-18.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#7ED976">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 537" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="64.05" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 537" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="46.7" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 537" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="29.3" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 537" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="29.95" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 537" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="31.8" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 537" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="34.95" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 537" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="39.35" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 537" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="45.05" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 537" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="51.95" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#BB73B8" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.00714111328125" c="-0.00457763671875" d="0" tx="69.8" ty="-2.25"/>
+                        </matrix>
+                        <GradientEntry color="#2C3022" ratio="0.235294117647059"/>
+                        <GradientEntry color="#5A5C45" ratio="0.349019607843137"/>
+                        <GradientEntry color="#22281A" ratio="0.509803921568627"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.02099609375" c="-0.0073089599609375" d="0" tx="86.25" ty="2"/>
+                        </matrix>
+                        <GradientEntry color="#5F554B" ratio="0"/>
+                        <GradientEntry color="#171D13" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#2B2822"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!526 160|526 -20"/>
+                    <Edge fillStyle1="1" edges="!526 -20|526 -120"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!526 -20|1196 -20!1196 -20|1286 30!1286 30|2196 30!2196 30|2251 -80"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!526 -120|2266 -120!2266 -120|2251 -80"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!2251 -80|2316 -80!2316 -80|2325 -80!2325 -80|2393 -80!2393 -80|2453 -80!2453 -80|2447 -64"/>
+                    <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="!2447 -64|2431 -21!2431 -21|2486 -21!2486 -21|2506 -64"/>
+                    <Edge fillStyle1="3" strokeStyle="1" edges="!2447 -64|2506 -64"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!2506 -64|2513 -80!2513 -80|2566 -80!2566 -80|2560 -62!2618 -62|2626 -80!2626 -80|2674 -80!2674 -80|2668 -64"/>
+                    <Edge fillStyle1="3" strokeStyle="1" edges="!2560 -62|2618 -62"/>
+                    <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="!2560 -62|2544 -21!2544 -21|2599 -21!2599 -21|2618 -62"/>
+                    <Edge fillStyle1="3" strokeStyle="1" edges="!2668 -64|2727 -64"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!2727 -64|2734 -80!2734 -80|2924 -80!2924 -80|2924 -24"/>
+                    <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="!2668 -64|2652 -21!2652 -21|2707 -21!2707 -21|2727 -64"/>
+                    <Edge fillStyle1="4" strokeStyle="1" edges="!2924 -24|2901 130!2901 130|2552 130"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!2552 130|2521 160!2521 160|2325 160!2325 160|526 160"/>
+                    <Edge fillStyle0="4" fillStyle1="2" strokeStyle="1" edges="!2924 -24|2866 34!2866 34|2748 66!2748 66|2615 66!2615 66|2552 130"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

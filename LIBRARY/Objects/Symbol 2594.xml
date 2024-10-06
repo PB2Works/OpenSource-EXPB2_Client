@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 2594" itemID="63c25e2b-00000e64" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2594">
+      <layers>
+        <DOMLayer name="Layer 1" color="#70F6D7">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="customThicknessSharpness" width="128.5" height="9.85" autoExpand="true" antiAliasThickness="56" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2.55" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Play Coolbuddy Games</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.6" leftMargin="9" lineSpacing="0" lineHeight="9.85" size="9" bitmapSize="180" face="EuropeExt Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText width="123.5" height="9.85" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="6.8" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Play Coolbuddy Games</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="4" lineSpacing="0" lineHeight="9.85" size="9" bitmapSize="180" face="EuropeExt Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText width="123.5" height="9.85" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="6.8" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Play Coolbuddy Games</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="4" lineSpacing="0" lineHeight="9.85" size="9" bitmapSize="180" face="EuropeExt Regular" fillColor="#A2D0FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#D4DD21" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 2590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.42999267578125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

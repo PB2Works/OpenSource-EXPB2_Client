@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension xmlns="http://ns.adobe.com/air/extension/3.1">
+	<id>com.pb2works.PB2E</id>
+	<name>Plazma Burst 2 Extended Extension</name>
+	<description>Expands the capabilities of Plazma Burst 2</description>
+	<versionNumber>1.0</versionNumber>
+	<copyright>© 2023, 89NA (PB2Works team)</copyright>
+	<platforms>
+		<platform name="Windows-x86">
+			<applicationDeployment>
+				<nativeLibrary>PB2E.dll</nativeLibrary>
+				<initializer>extensionInitializer</initializer>
+				<finalizer>extensionFinalizer</finalizer>
+			</applicationDeployment>
+		</platform>
+	</platforms>
+</extension>

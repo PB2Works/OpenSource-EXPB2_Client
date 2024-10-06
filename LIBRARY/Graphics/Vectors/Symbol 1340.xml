@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 1340" itemID="63c25e2b-00000c6a" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1340">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.018463134765625" d="0.00421142578125" tx="53.1" ty="-0.45"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#15FF11" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1298 -58[1385 -37 1385 -8!1385 -8[1385 21 1298 42!1298 42[1209 63 1087 63!1087 63|1067 62!1067 62|1047 63!1047 63[922 63 835 42!835 42[746 21 748 -8!748 -8[746 -37 835 -58!835 -58[922 -79 1047 -79!1047 -79|1067 -78!1067 -78|1087 -79
+!1087 -79[1209 -79 1298 -58"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0088043212890625" d="0.0092010498046875" tx="45.6" ty="-0.3"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#11FF19" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!804 -113[845 -158 905 -158!905 -158|914 -158!914 -158|924 -158!924 -158[982 -158 1025 -113!1025 -113[1066 -67 1066 -3!1066 -3[1066 60 1025 106!1025 106[982 151 924 151!924 151|914 150!914 150|905 151!905 151[845 151 804 106!804 106[761
+ 60 762 -3!762 -3[761 -67 804 -113"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

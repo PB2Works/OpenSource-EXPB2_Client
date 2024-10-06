@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 2158" itemID="63c25e2b-00000df1" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2158">
+      <layers>
+        <DOMLayer name="Layer 1" color="#71CDB3">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2157" name="ttt" centerPoint3DX="406.6" centerPoint3DY="199.9">
+                  <matrix>
+                    <Matrix tx="314" ty="195.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#6F7B9E" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient spreadMethod="repeat">
+                        <matrix>
+                          <Matrix a="0.0018310546875" b="0.0018310546875" c="-0.107894897460938" d="0.107894897460938" tx="150" ty="125"/>
+                        </matrix>
+                        <GradientEntry alpha="0.811764705882353" ratio="0.392156862745098"/>
+                        <GradientEntry alpha="0.862745098039216" ratio="0.411764705882353"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!16000 8000|0 8000!0 8000|0 0!0 0|16000 0!16000 0|16000 8000"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

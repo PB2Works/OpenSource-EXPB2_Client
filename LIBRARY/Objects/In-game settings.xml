@@ -1,0 +1,2680 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/In-game settings" itemID="63de37c2-0000105b" lastModified="1675978699">
+  <timeline>
+    <DOMTimeline name="In-game settings">
+      <layers>
+        <DOMLayer name="Title" color="#9DFFE5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="162.3" height="10.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="313.05" ty="51.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Settings &amp; Performance</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" lineSpacing="0" lineHeight="10.95" size="10" bitmapSize="200" face="EuropeExt Regular" fillColor="#EEF9FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Graphics &amp; performance:" color="#0DFB95" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="171.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="28.4" ty="68.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>GRAPHICS &amp; PERFORMANCE:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Gameplay:" color="#2EFB59" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="70.45" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="28.4" ty="197.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>GAMEPLAY:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" face="DejaVuSansMono" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Options" color="#FF4FFF" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Custom music volume" color="#669900" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#E24EB6" parentLayerIndex="4" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="161.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="23.4" ty="265.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CUSTOM MUSIC VOLUME:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="16" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Slider" color="#7F709C" parentLayerIndex="4" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Volume slider" name="m2_1" centerPoint3DX="370.8" centerPoint3DY="281.45">
+                  <matrix>
+                    <Matrix tx="224.3" ty="272.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mute text" color="#BC48F7" parentLayerIndex="4" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="35.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="303.4" ty="265.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MUTE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="6" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mute button" color="#D38876" parentLayerIndex="4" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="m2_1x" centerPoint3DX="360.2" centerPoint3DY="281.45">
+                  <matrix>
+                    <Matrix tx="335.2" ty="272.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Hit sound" color="#9933CC" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#8FF344" parentLayerIndex="9" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="109.7" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="559.85" ty="334.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>HIT SOUND:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="37" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes text" color="#AEDB30" parentLayerIndex="9" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="731.8" ty="334.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#D062DA" parentLayerIndex="9" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="679.85" ty="334.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes button" color="#22A9EA" parentLayerIndex="9" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="hit_2" centerPoint3DX="788.6" centerPoint3DY="350.25">
+                  <matrix>
+                    <Matrix tx="763.6" ty="341.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#FC2986" parentLayerIndex="9" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="hit_1" centerPoint3DX="735.6" centerPoint3DY="350.25">
+                  <matrix>
+                    <Matrix tx="710.6" ty="341.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Screen fade effect" color="#FF0000" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#E82381" parentLayerIndex="15" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="158.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="24.4" ty="165.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SCREEN FADE EFFECT:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="21" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes text" color="#F7F5D9" parentLayerIndex="15" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="246.1" ty="165.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#17EED4" parentLayerIndex="15" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="24.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="193.95" ty="165.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes button" color="#2F9AB7" parentLayerIndex="15" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="screenfade_2" centerPoint3DX="301.7" centerPoint3DY="181.35">
+                  <matrix>
+                    <Matrix tx="276.7" ty="172.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#55FB30" parentLayerIndex="15" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="screenfade_1" centerPoint3DX="248.7" centerPoint3DY="181.35">
+                  <matrix>
+                    <Matrix tx="223.7" ty="172.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Beep on death" color="#00FFFF" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#B3E66C" parentLayerIndex="21" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="109.7" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="559.85" ty="311.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>BEEP ON DEATH:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="8" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes text" color="#CE7B4B" parentLayerIndex="21" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="731.8" ty="311.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#BAEBBF" parentLayerIndex="21" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="679.85" ty="311.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes button" color="#E453B7" parentLayerIndex="21" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="beep_2" centerPoint3DX="788.6" centerPoint3DY="327.05">
+                  <matrix>
+                    <Matrix tx="763.6" ty="318.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#5188DD" parentLayerIndex="21" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="beep_1" centerPoint3DX="735.6" centerPoint3DY="327.05">
+                  <matrix>
+                    <Matrix tx="710.6" ty="318.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Reconnect" color="#FF4F4F" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#F88B91" parentLayerIndex="27" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="88.7" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="350.95" ty="310.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>RECONNECT:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="16" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes text" color="#FE26F5" parentLayerIndex="27" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="501.35" ty="310.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#B850B4" parentLayerIndex="27" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="449.4" ty="310.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes button" color="#95DE2B" parentLayerIndex="27" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="rec_2" centerPoint3DX="558.15" centerPoint3DY="326.65">
+                  <matrix>
+                    <Matrix tx="533.15" ty="317.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#FAA137" parentLayerIndex="27" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="rec_1" centerPoint3DX="505.15" centerPoint3DY="326.65">
+                  <matrix>
+                    <Matrix tx="480.15" ty="317.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Fix wheel" color="#FF4FFF" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#D437F6" parentLayerIndex="33" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="88.7" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="351" ty="289.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>FIX WHEEL:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="16" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes text" color="#64D4C7" parentLayerIndex="33" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="501.4" ty="289.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#70BACE" parentLayerIndex="33" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="449.45" ty="289.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes button" color="#70F1BF" parentLayerIndex="33" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="os_2" centerPoint3DX="558.2" centerPoint3DY="305.45">
+                  <matrix>
+                    <Matrix tx="533.2" ty="296.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#948995" parentLayerIndex="33" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="os_1" centerPoint3DX="505.2" centerPoint3DY="305.45">
+                  <matrix>
+                    <Matrix tx="480.2" ty="296.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mouse wheel" color="#009999" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#AE07CE" parentLayerIndex="39" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="93.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="346.55" ty="267.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MOUSE WHEEL:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="6" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes text" color="#CC5D6C" parentLayerIndex="39" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="501.8" ty="267.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#B57EC8" parentLayerIndex="39" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="449.85" ty="267.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes button" color="#ED9871" parentLayerIndex="39" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="mw_2" centerPoint3DX="558.6" centerPoint3DY="283.45">
+                  <matrix>
+                    <Matrix tx="533.6" ty="274.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#E2AA9B" parentLayerIndex="39" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="mw_1" centerPoint3DX="505.6" centerPoint3DY="283.45">
+                  <matrix>
+                    <Matrix tx="480.6" ty="274.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Screen effects quality" color="#FF4F4F" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#7C83AC" parentLayerIndex="45" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="183.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="293.6" ty="119.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SCREEN EFFECTS QUALITY:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="17" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="High text" color="#BF85F0" parentLayerIndex="45" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="35.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="538.25" ty="119.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>HIGH</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.2" leftMargin="6" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Low text" color="#EB9A4F" parentLayerIndex="45" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="30.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="486.35" ty="119.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LOW</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.2" leftMargin="9" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="High button" color="#84E9BB" parentLayerIndex="45" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="se_2" centerPoint3DX="594.65" centerPoint3DY="135.95">
+                  <matrix>
+                    <Matrix tx="569.65" ty="126.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#9AC027" parentLayerIndex="45" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="se_1" centerPoint3DX="541.65" centerPoint3DY="135.95">
+                  <matrix>
+                    <Matrix tx="516.65" ty="126.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Censorship" color="#FF800A" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#9C92C2" parentLayerIndex="51" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="119.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="550.35" ty="267.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CENSORSHIP:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="40" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes text" color="#408CEA" parentLayerIndex="51" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="731.75" ty="267.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#FD2380" parentLayerIndex="51" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="679.8" ty="267.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes button" color="#82ACBE" parentLayerIndex="51" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="csh_2" centerPoint3DX="788.55" centerPoint3DY="283.45">
+                  <matrix>
+                    <Matrix tx="763.55" ty="274.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#C17FD6" parentLayerIndex="51" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="csh_1" centerPoint3DX="735.55" centerPoint3DY="283.45">
+                  <matrix>
+                    <Matrix tx="710.55" ty="274.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Display chat" color="#9933CC" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#9266AD" parentLayerIndex="57" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="104.45" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="78.4" ty="333.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>DISPLAY CHAT:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#D69F78" parentLayerIndex="57">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="35.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="297.75" ty="333.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>FULL</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="6" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#F7D65C" parentLayerIndex="57">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="34.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="241.8" ty="333.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MIN</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#C0C847" parentLayerIndex="57" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="192.85" ty="333.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Full button" color="#DF8379" parentLayerIndex="57" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="dch_2" centerPoint3DX="354.55" centerPoint3DY="349.65">
+                  <matrix>
+                    <Matrix tx="329.55" ty="340.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Min button" color="#909571" parentLayerIndex="57" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="dch_1" centerPoint3DX="301.6" centerPoint3DY="349.65">
+                  <matrix>
+                    <Matrix tx="276.6" ty="340.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#A3D90D" parentLayerIndex="57" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="dch_0" centerPoint3DX="248.6" centerPoint3DY="349.65">
+                  <matrix>
+                    <Matrix tx="223.6" ty="340.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Cursor/crosshair" color="#FF800A" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#D0C960" parentLayerIndex="65" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="131.45" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="51.4" ty="311.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CURSOR</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="8" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>/</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>CROSSHAIR:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes text" color="#95CDA9" parentLayerIndex="65" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="244.8" ty="311.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#656EB0" parentLayerIndex="65" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="192.85" ty="311.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes button" color="#B6809E" parentLayerIndex="65" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="cur_2" centerPoint3DX="301.6" centerPoint3DY="327.45">
+                  <matrix>
+                    <Matrix tx="276.6" ty="318.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#44E9A9" parentLayerIndex="65" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="cur_1" centerPoint3DX="248.6" centerPoint3DY="327.45">
+                  <matrix>
+                    <Matrix tx="223.6" ty="318.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Always use new weapon" color="#FF4FFF" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#6D93C7" parentLayerIndex="71" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="165.7" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="16" ty="289.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ALWAYS USE NEW WEAPON:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="6" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes text" color="#AA24DB" parentLayerIndex="71" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="244.8" ty="289.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#9B66CC" parentLayerIndex="71" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="192.85" ty="289.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes button" color="#96C03C" parentLayerIndex="71" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="n_2" centerPoint3DX="301.6" centerPoint3DY="305.45">
+                  <matrix>
+                    <Matrix tx="276.6" ty="296.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#C4E7E2" parentLayerIndex="71" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="n_1" centerPoint3DX="248.6" centerPoint3DY="305.45">
+                  <matrix>
+                    <Matrix tx="223.6" ty="296.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Music volume" color="#009999" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#F4624F" parentLayerIndex="77" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="123.45" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="59.9" ty="244.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MUSIC VOLUME:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="29" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Slider" color="#7882AE" parentLayerIndex="77" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Volume slider" name="m_1" centerPoint3DX="370.8" centerPoint3DY="260.35">
+                  <matrix>
+                    <Matrix tx="224.3" ty="251.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 66" color="#8DA38E" parentLayerIndex="77">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="35.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="303.4" ty="244.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MUTE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="6" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 68" color="#F6B669" parentLayerIndex="77">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="m_1x" centerPoint3DX="360.2" centerPoint3DY="260.35">
+                  <matrix>
+                    <Matrix tx="335.2" ty="251.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sound FX volume" color="#FF0000" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#4485E6" parentLayerIndex="82" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="123.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="59.9" ty="223.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SOUND FX VOLUME:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="7" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Slider" color="#90B87F" parentLayerIndex="82" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Volume slider" name="v_1" centerPoint3DX="370.8" centerPoint3DY="239.45">
+                  <matrix>
+                    <Matrix tx="224.3" ty="230.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mute text" color="#0A94FF" parentLayerIndex="82" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="35.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="303.4" ty="223.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MUTE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="6" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mute button" color="#D4D243" parentLayerIndex="82" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="v_1x" centerPoint3DX="360.2" centerPoint3DY="239.45">
+                  <matrix>
+                    <Matrix tx="335.2" ty="230.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Hints" color="#669900" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#BB1DFF" parentLayerIndex="87" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="86.7" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="353.4" ty="245.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>HINTS:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="43" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes text" color="#93B1B3" parentLayerIndex="87" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="501.8" ty="245.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#C25CEA" parentLayerIndex="87" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="449.85" ty="245.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes button" color="#D3D306" parentLayerIndex="87" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="hi_2" centerPoint3DX="558.6" centerPoint3DY="261.45">
+                  <matrix>
+                    <Matrix tx="533.6" ty="252.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#5DFBAC" parentLayerIndex="87" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="hi_1" centerPoint3DX="505.6" centerPoint3DY="261.45">
+                  <matrix>
+                    <Matrix tx="480.6" ty="252.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Tooltips" color="#FF0000" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#6FE27E" parentLayerIndex="93" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="86.45" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="353.4" ty="223.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>TOOLTIPS:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="21" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes text" color="#A6F216" parentLayerIndex="93" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="501.8" ty="223.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#8643C3" parentLayerIndex="93" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="449.85" ty="223.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes button" color="#9F22E8" parentLayerIndex="93" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="tt_2" centerPoint3DX="558.6" centerPoint3DY="239.45">
+                  <matrix>
+                    <Matrix tx="533.6" ty="230.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#1ADBF0" parentLayerIndex="93" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="tt_1" centerPoint3DX="505.6" centerPoint3DY="239.45">
+                  <matrix>
+                    <Matrix tx="480.6" ty="230.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Violence" color="#009999" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#7EEA9A" parentLayerIndex="99" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="86.45" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="583.35" ty="245.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>VIOLENCE:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="21" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes text" color="#68C1A0" parentLayerIndex="99" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="731.75" ty="245.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#8D7BF5" parentLayerIndex="99" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="679.8" ty="245.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes button" color="#E064D9" parentLayerIndex="99" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="vi_2" centerPoint3DX="788.55" centerPoint3DY="261.45">
+                  <matrix>
+                    <Matrix tx="763.55" ty="252.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#E8A6EA" parentLayerIndex="99" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="vi_1" centerPoint3DX="735.55" centerPoint3DY="261.45">
+                  <matrix>
+                    <Matrix tx="710.55" ty="252.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Camera movement" color="#FF4FFF" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#E37D44" parentLayerIndex="105" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="123.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="546.85" ty="223.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CAMERA MOVEMENT:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="7" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Soft text" color="#B9D524" parentLayerIndex="105" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="35.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="731.75" ty="223.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SOFT</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="6" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Fast text" color="#B8FD85" parentLayerIndex="105" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="34.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="679.85" ty="223.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>FAST</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Soft button" color="#F383D0" parentLayerIndex="105" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="cm_2" centerPoint3DX="788.55" centerPoint3DY="239.45">
+                  <matrix>
+                    <Matrix tx="763.55" ty="230.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Fast button" color="#F243AD" parentLayerIndex="105" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="cm_1" centerPoint3DX="735.55" centerPoint3DY="239.45">
+                  <matrix>
+                    <Matrix tx="710.55" ty="230.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Physics quality" color="#FF800A" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#C9B50B" parentLayerIndex="111" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="124.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="352.45" ty="96.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>PHYSICS QUALITY:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="8" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="High text" color="#9782D7" parentLayerIndex="111" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="35.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="539.05" ty="96.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>HIGH</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="6" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Low text" color="#5AF5B2" parentLayerIndex="111" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="28.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="486.9" ty="96.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LOW</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="7" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="High button" color="#B924C9" parentLayerIndex="111" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="ph_2" centerPoint3DX="594.65" centerPoint3DY="112.95">
+                  <matrix>
+                    <Matrix tx="569.65" ty="103.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Low button" color="#16E2DF" parentLayerIndex="111" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="ph_1" centerPoint3DX="541.65" centerPoint3DY="112.95">
+                  <matrix>
+                    <Matrix tx="516.65" ty="103.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Effects quality" color="#9933CC" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#F76D2F" parentLayerIndex="117" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="159.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="24.3" ty="142.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>EFFECTS QUALITY:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="43" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="High text" color="#419EE4" parentLayerIndex="117" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="35.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="246" ty="142.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>HIGH</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="6" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Low text" color="#E29072" parentLayerIndex="117" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="28.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="193.85" ty="142.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LOW</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="7" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="High button" color="#8C61AB" parentLayerIndex="117" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="c_2" centerPoint3DX="301.6" centerPoint3DY="158.95">
+                  <matrix>
+                    <Matrix tx="276.6" ty="149.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Low button" color="#EFA721" parentLayerIndex="117" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="c_1" centerPoint3DX="248.6" centerPoint3DY="158.95">
+                  <matrix>
+                    <Matrix tx="223.6" ty="149.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Display quality" color="#00FFFF" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#D28484" parentLayerIndex="123" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="123.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="59.4" ty="119.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>DISPLAY QUALITY:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="7" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="High text" color="#87B9F5" parentLayerIndex="123" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="35.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="245.85" ty="119.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>HIGH</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.2" leftMargin="6" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Low text" color="#D0D16C" parentLayerIndex="123" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="28.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="193.7" ty="119.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LOW</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.2" leftMargin="7" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="High button" color="#E3F944" parentLayerIndex="123" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="q_2" centerPoint3DX="301.6" centerPoint3DY="135.95">
+                  <matrix>
+                    <Matrix tx="276.6" ty="126.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Low button" color="#DEA66B" parentLayerIndex="123" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="q_1" centerPoint3DX="248.6" centerPoint3DY="135.95">
+                  <matrix>
+                    <Matrix tx="223.6" ty="126.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Screen flash effect" color="#FF4F4F" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#96AD59" parentLayerIndex="129" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="158.2" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="24.4" ty="96.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SCREEN FLASH EFFECT:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes text" color="#5BBCA5" parentLayerIndex="129" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="244.8" ty="96.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#79B06C" parentLayerIndex="129" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="192.9" ty="96.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Yes button" color="#8A827B" parentLayerIndex="129" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="s_2" centerPoint3DX="301.6" centerPoint3DY="112.95">
+                  <matrix>
+                    <Matrix tx="276.6" ty="103.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#C535BE" parentLayerIndex="129" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="s_1" centerPoint3DX="248.6" centerPoint3DY="112.95">
+                  <matrix>
+                    <Matrix tx="223.6" ty="103.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Frame rate (FPS)" color="#FF800A" parentLayerIndex="3" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#ED672E" parentLayerIndex="135" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="183.45" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="293.6" ty="142.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>FRAME RATE (FPS):</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="60" lineSpacing="0" lineHeight="14" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="120 text" color="#54C4DE" parentLayerIndex="135" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="34.8" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="641.5" ty="142.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>120</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="60 text" color="#54C4DE" parentLayerIndex="135" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="591.25" ty="142.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>60</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="30 text" color="#60BC78" parentLayerIndex="135" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="538.25" ty="142.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>30</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="20 text" color="#A84BB3" parentLayerIndex="135" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="34.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="486.35" ty="142.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>20 </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="120 button" color="#8963AC" parentLayerIndex="135" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="frr_4" centerPoint3DX="700.7" centerPoint3DY="158.95">
+                  <matrix>
+                    <Matrix tx="675.7" ty="149.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="60 button" color="#8963AC" parentLayerIndex="135" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="frr_3" centerPoint3DX="647.65" centerPoint3DY="158.95">
+                  <matrix>
+                    <Matrix tx="622.65" ty="149.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="30 button" color="#E56742" parentLayerIndex="135" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="frr_2" centerPoint3DX="594.65" centerPoint3DY="158.95">
+                  <matrix>
+                    <Matrix tx="569.65" ty="149.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="20 button" color="#F6B810" parentLayerIndex="135" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="frr_1" centerPoint3DX="541.65" centerPoint3DY="158.95">
+                  <matrix>
+                    <Matrix tx="516.65" ty="149.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Show progress bar" color="#9933CC" parentLayerIndex="3" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Description" color="#62E35F" parentLayerIndex="145" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="183.7" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="293.6" ty="165.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SHOW PROGRESS BAR:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="53" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SP text" color="#6DC999" parentLayerIndex="145" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="591.25" ty="165.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SP</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="EXP text" color="#CA3098" parentLayerIndex="145" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.95" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="538.25" ty="165.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>EXP</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="10" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No text" color="#8BC9CE" parentLayerIndex="145" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.6" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="486.35" ty="165.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.05" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SP button" color="#8288B7" parentLayerIndex="145" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="exp_3" centerPoint3DX="647.65" centerPoint3DY="181.35">
+                  <matrix>
+                    <Matrix tx="622.65" ty="172.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="EXP button" color="#D367DC" parentLayerIndex="145" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="exp_2" centerPoint3DX="594.65" centerPoint3DY="181.35">
+                  <matrix>
+                    <Matrix tx="569.65" ty="172.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No button" color="#E09EDB" parentLayerIndex="145" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Settings toggle" name="exp_1" centerPoint3DX="541.65" centerPoint3DY="181.35">
+                  <matrix>
+                    <Matrix tx="516.65" ty="172.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-30" blueOffset="-30" greenOffset="-30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Back button" color="#00FFFF" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Text" color="#C3586B" parentLayerIndex="153" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="105.5" height="13.15" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="374.1" ty="336.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Back</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="70" lineSpacing="0" lineHeight="13.15" bitmapSize="240" face="EuropeExt Regular" fillColor="#88D0FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Button" color="#21D0E1" parentLayerIndex="153" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Buttons/Symbol 2148" name="b_close2" symbolType="button">
+                  <matrix>
+                    <Matrix tx="367.5" ty="333.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Base" color="#ED00B1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 2237" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

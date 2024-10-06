@@ -1,0 +1,161 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Player" itemID="63d3a9ce-00000bbf" linkageExportForAS="true" linkageClassName="player" lastModified="1693749247">
+  <timeline>
+    <DOMTimeline name="Player">
+      <layers>
+        <DOMLayer name="Statusbar (gui)" color="#A2FA27" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Player statusbar" name="gui" selected="true" centerPoint3DX="74.25" centerPoint3DY="-77.55">
+                  <matrix>
+                    <Matrix tx="4" ty="-95.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Stickman" color="#9A1BCC" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!171 -1377S2[#DB.FE #FFFACF.29 228.5 -1240!228.5 -1240[230 #FFFB3A.27 230 -1202!230 -1202[230 -1169 216 -1142!216 -1142[193 -1100 140 -1090!140 -1090|52 -1090!52 -1090|62 -1067!62 -1067[71 -975 90 -950!90 -950|90 -927!90 -927[190 -937
+ 273 -854!273 -854[370 -756 370 -650!370 -650[370 -606 361 -590!361 -590[348 -570 310 -570!310 -570|264 -575!264 -575|255 -580!255 -580[253 -595 258 -613!258 -613|265 -662!265 -662[265 -707 185 -768!185 -768|90 -831!90 -831|90 -754!90
+ -754|100 -760!100 -760|105 -754!105 -754|110 -722!110 -722|104 -649!104 -649[210 -454 210 -277!210 -277[210 #FFFF17.96 206.5 -200!206.5 -200[#CC.44 #FFFF4A.7A 201 -167!201 -167[186 -96 140 -70!140 -70[#62.2A #FFFF91.23 99 -200!99 -200
+[#62.F2 #FFFF35.85 99 -205!99 -205[100 -258 110 -365!110 -365[110 -385 53 -504!53 -504|40 -476!40 -476[#FFFFF1.13 #FFFEA0.C3 -27 -200!-27 -200[-30 #FFFF61.81 -30 -115!-30 -115|-80 -90!-80 -90[-119 -116 -127 -182!-127 -182|-130 -295!-130
+ -295[-130 -491 -115 -537!-115 -537[-90 -614 -9 -684!-9 -684|-3 -722!-3 -722[-20 -752 -31 -793!-31 -793|-75 -722!-75 -722[-185 -546 -240 -510!-240 -510[-266 -519 -276 -530!-276 -530[-290 -546 -290 -580!-290 -580[-155 -879 -48 -953!-48
+ -953|-50 -1055!-50 -1055[-50 -1105 -45 -1100!-45 -1100|-34 -1104!-34 -1104|-117 -1190!-117 -1190[#FFFF7A.44 #FFFB42.AC -142 -1240!-142 -1240[-150 #FFFB0E.14 -150 -1295!-150 -1295[-150 -1345 -91 -1385!-91 -1385[-32 -1423 40 -1425!40 -1425
+[120 -1426 171 -1377!61 -1202[112 -1206 115 -1215!115 -1215|88 -1267!88 -1267[54 -1305 -25 -1305!-25 -1305|-35 -1309!-35 -1309[-45 -1306 -45 -1275!-45 -1275|-20 -1246!-20 -1246[-17.515625 #FFFB25.15 -15 -1240!-15 -1240[#5.7F #FFFB42.7E
+ 10 -1200!10 -1200|61 -1202"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Front arm" color="#F6BD67" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Arm" name="arm1" centerPoint3DX="29.7" centerPoint3DY="-15">
+                  <matrix>
+                    <Matrix tx="-0.3" ty="-62.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Front leg" color="#2E97BC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Leg" name="leg1" centerPoint3DX="21.9" centerPoint3DY="-6.35">
+                  <matrix>
+                    <Matrix tx="-2.15" ty="-33.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Head" color="#F457C5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Head" name="head" centerPoint3DX="42.95" centerPoint3DY="-39">
+                  <matrix>
+                    <Matrix ty="-67.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Body" color="#C715EA" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Body" name="body" centerPoint3DX="19.9" centerPoint3DY="-11">
+                  <matrix>
+                    <Matrix tx="0.45" ty="-38.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Pelvis" color="#AF8053" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Pelvis" name="toe" centerPoint3DX="9.25" centerPoint3DY="-27.45">
+                  <matrix>
+                    <Matrix tx="-0.2" ty="-38.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Back leg" color="#6CF69E" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Leg" name="leg2" centerPoint3DX="26.35" centerPoint3DY="-6">
+                  <matrix>
+                    <Matrix tx="2.3" ty="-33.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Back arm" color="#CDC6BF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Arm" name="arm2" centerPoint3DX="39.2" centerPoint3DY="-14">
+                  <matrix>
+                    <Matrix tx="9.2" ty="-61.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

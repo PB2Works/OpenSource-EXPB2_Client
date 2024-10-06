@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 1874" itemID="63c25e2b-00000d7d" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1874">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#74FF74"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#348C34"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3 -50|6 -42"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!6 -42|92 -37"/>
+                    <Edge strokeStyle="1" edges="!92 -37|89 -44"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!92 -37|176 -33"/>
+                    <Edge strokeStyle="1" edges="!176 -33|173 -39"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!176 -33|248 -29!248 -29|248 47!248 47|206 47!206 47|124 47!124 47|41 47"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!41 47|6 -42!92 -37|124 47!176 -33|206 47"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!41 47|-248 47!-248 47|-234 -56!-234 -56|-163 -52"/>
+                    <Edge strokeStyle="1" edges="!-163 -52|-166 -58!-79 -47|-82 -55"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-163 -52|-79 -47"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!-79 -47|-45 42!-163 -52|-129 39"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!6 -42|-79 -47"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

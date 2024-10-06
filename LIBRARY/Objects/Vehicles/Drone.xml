@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Vehicles/Drone" itemID="63d519c3-000013d9" linkageExportForAS="true" linkageClassName="veh_drone" lastModified="1674910147">
+  <timeline>
+    <DOMTimeline name="Drone">
+      <layers>
+        <DOMLayer name="Layer 1" color="#CD71F7">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Vehicle statusbar" name="gui" centerPoint3DX="96.9" centerPoint3DY="-22.95">
+                  <matrix>
+                    <Matrix ty="-38.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#C616CE" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1695" name="carbody" centerPoint3DX="22.35" centerPoint3DY="16.55">
+                  <matrix>
+                    <Matrix a="1.00042724609375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1697" name="carbody" centerPoint3DX="22" centerPoint3DY="16.6">
+                  <matrix>
+                    <Matrix a="1.00042724609375" tx="-0.35" ty="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

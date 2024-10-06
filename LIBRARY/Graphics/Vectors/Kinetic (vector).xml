@@ -1,0 +1,517 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Kinetic (vector)" itemID="63dbde45-00000c2d" symbolType="graphic" lastModified="1675353669">
+  <timeline>
+    <DOMTimeline name="Kinetic (vector)">
+      <layers>
+        <DOMLayer name="Lines" color="#FF0000" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Layer_30" color="#FF4F4F" parentLayerIndex="0" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.0589752197265625" d="0.0589752197265625" tx="4.95" ty="0.4"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#000009" alpha="0" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry alpha="0" ratio="1"/>
+                            <GradientEntry color="#B6B6B6" ratio="1"/>
+                            <GradientEntry color="#B4B4B4" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-921 -240S4/-862 -225!-862 -225/-835 -219!-835 -219/-772 -203!-772 -203/-743 -196!-743 -196/-660 -176!-660 -176/940 212"/>
+                    <Edge cubics="!-835 -219(;-835,-219 -772,-203 -772,-203q-835 -219 -772 -203);"/>
+                    <Edge cubics="!-660 -176(;-660,-176 940,212 940,212q-660 -176 940 212);"/>
+                    <Edge cubics="!-862 -225(;-862,-225 -835,-219 -835,-219q-862 -225 -835 -219);"/>
+                    <Edge cubics="!-921 -240(;-921,-240 -862,-225 -862,-225q-921 -240 -862 -225);"/>
+                    <Edge cubics="!-743 -196(;-743,-196 -660,-176 -660,-176q-743 -196 -660 -176);"/>
+                    <Edge cubics="!-772 -203(;-772,-203 -743,-196 -743,-196q-772 -203 -743 -196);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_42" color="#FF4FFF" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="1.6">
+                        <fill>
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.0613250732421875" d="0.0613250732421875" tx="3.7" ty="-1.2"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#000009" alpha="0" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry alpha="0" ratio="1"/>
+                            <GradientEntry color="#B6B6B6" ratio="1"/>
+                            <GradientEntry color="#B4B4B4" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-378 850S4|531 -895"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_41" color="#FF800A" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.8">
+                        <fill>
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.04974365234375" d="0.04974365234375" tx="3.65" ty="-0.75"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#000009" alpha="0" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry alpha="0" ratio="1"/>
+                            <GradientEntry color="#B6B6B6" ratio="1"/>
+                            <GradientEntry color="#B4B4B4" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-341 676S4|487 -706"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_40" color="#9933CC" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.8">
+                        <fill>
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.0583343505859375" d="0.0583343505859375" tx="3.1" ty="0.35"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#000009" alpha="0" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry alpha="0" ratio="1"/>
+                            <GradientEntry color="#B6B6B6" ratio="1"/>
+                            <GradientEntry color="#B4B4B4" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-443 -815S4/573 800"/>
+                    <Edge cubics="!-443 -815(;-443,-815 573,800 573,800q-443 -815 573 800);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_39" color="#00FFFF" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.8">
+                        <fill>
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.059295654296875" d="0.059295654296875" tx="3.75" ty="1.05"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#000009" alpha="0" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry alpha="0" ratio="1"/>
+                            <GradientEntry color="#B6B6B6" ratio="1"/>
+                            <GradientEntry color="#B4B4B4" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-394 -816S4|544 860"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_38" color="#FF4F4F" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_37" color="#669900" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.8">
+                        <fill>
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.056610107421875" d="0.056610107421875" tx="2.6" ty="2.5"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#000009" alpha="0" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry alpha="0" ratio="1"/>
+                            <GradientEntry color="#B6B6B6" ratio="1"/>
+                            <GradientEntry color="#B4B4B4" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!185 -857S4|-80 957"/>
+                    <Edge cubics="!185 -857(;185,-857 -80,957 -80,957q185 -857 -80 957);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_36" color="#FF0000" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.8">
+                        <fill>
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.0598907470703125" d="0.0598907470703125" tx="3" ty="0.55"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#000009" alpha="0" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry alpha="0" ratio="1"/>
+                            <GradientEntry color="#B6B6B6" ratio="1"/>
+                            <GradientEntry color="#B4B4B4" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-264 -918S4/-242 -857!-242 -857/384 926"/>
+                    <Edge cubics="!-264 -918(;-264,-918 -242,-857 -242,-857q-264 -918 -242 -857);"/>
+                    <Edge cubics="!-242 -857(;-242,-857 384,926 384,926q-242 -857 384 926);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_35" color="#009999" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.8">
+                        <fill>
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.0583648681640625" d="0.0583648681640625" tx="4.45" ty="-0.9"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#000009" alpha="0" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry alpha="0" ratio="1"/>
+                            <GradientEntry color="#B6B6B6" ratio="1"/>
+                            <GradientEntry color="#B4B4B4" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-721 469S4|900 -505"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_34" color="#FF4FFF" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.8">
+                        <fill>
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.0582122802734375" d="0.0582122802734375" tx="2.55" ty="-1.55"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#000009" alpha="0" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry alpha="0" ratio="1"/>
+                            <GradientEntry color="#B6B6B6" ratio="1"/>
+                            <GradientEntry color="#B4B4B4" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-35 -925S4/-27 -857!-27 -857/165 907"/>
+                    <Edge cubics="!-35 -925(;-35,-925 -27,-857 -27,-857q-35 -925 -27 -857);"/>
+                    <Edge cubics="!-27 -857(;-27,-857 165,907 165,907q-27 -857 165 907);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_33" color="#FF800A" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.8">
+                        <fill>
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.05633544921875" d="0.05633544921875" tx="3.6" ty="-0.95"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#000009" alpha="0" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry alpha="0" ratio="1"/>
+                            <GradientEntry color="#B6B6B6" ratio="1"/>
+                            <GradientEntry color="#B4B4B4" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-651 537S4/837 -598"/>
+                    <Edge cubics="!-651 537(;-651,537 837,-598 837,-598q-651 537 837 -598);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_32" color="#9933CC" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.8">
+                        <fill>
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.058441162109375" d="0.058441162109375" tx="4.2" ty="-1.3"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#000009" alpha="0" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry alpha="0" ratio="1"/>
+                            <GradientEntry color="#B6B6B6" ratio="1"/>
+                            <GradientEntry color="#B4B4B4" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-597 631S4|765 -684"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_31" color="#00FFFF" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.8">
+                        <fill>
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.056488037109375" d="0.056488037109375" tx="5.05" ty="0.95"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#000009" alpha="0" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry alpha="0" ratio="1"/>
+                            <GradientEntry color="#B6B6B6" ratio="1"/>
+                            <GradientEntry color="#B4B4B4" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-726 -370S4/-660 -338!-660 -338/887 395"/>
+                    <Edge cubics="!-726 -370(;-726,-370 -660,-338 -660,-338q-726 -370 -660 -338);"/>
+                    <Edge cubics="!-660 -338(;-660,-338 887,395 887,395q-660 -338 887 395);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Circle" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.04254150390625" d="0.04254150390625" tx="2.9" ty="0.65"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#E2E6E9" alpha="0.972549019607843" ratio="0.0784313725490196"/>
+                        <GradientEntry color="#6B7A88" alpha="0.929411764705882" ratio="0.192156862745098"/>
+                        <GradientEntry color="#445668" alpha="0.913725490196078" ratio="0.254901960784314"/>
+                        <GradientEntry color="#1B2630" alpha="0.886274509803922" ratio="0.533333333333333"/>
+                        <GradientEntry color="#557493" alpha="0.764705882352941" ratio="0.686274509803922"/>
+                        <GradientEntry color="#5491C9" alpha="0" ratio="1"/>
+                        <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                        <GradientEntry color="#5D5D68" alpha="0.498039215686275" ratio="1"/>
+                        <GradientEntry color="#FFFEFF" alpha="0.454901960784314" ratio="1"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.447058823529412" ratio="1"/>
+                        <GradientEntry color="#248AFF" alpha="0" ratio="1"/>
+                        <GradientEntry alpha="0" ratio="1"/>
+                        <GradientEntry color="#455E78" alpha="0.807843137254902" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="1.8">
+                        <fill>
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.04278564453125" d="0.04278564453125" tx="2.9" ty="0.65"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#000009" alpha="0" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry color="#9A9A9A" alpha="0.603921568627451" ratio="1"/>
+                            <GradientEntry alpha="0" ratio="1"/>
+                            <GradientEntry color="#B6B6B6" ratio="1"/>
+                            <GradientEntry color="#B4B4B4" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!741 13S6[741 296 541 496!541 496[341 696 58 696!58 696[-225 696 -425 496!-425 496[-572 349 -611 157!-611 157[-620 113 -623 67!-623 67[-625 40 -625 13!-625 13[-625 -270 -425 -470!-425 -470[-225 -670 58 -670!58 -670[341 -670 541 -470!541
+ -470[741 -270 741 13"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

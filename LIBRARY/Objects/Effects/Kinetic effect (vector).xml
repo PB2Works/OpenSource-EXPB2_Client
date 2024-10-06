@@ -1,0 +1,157 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Effects/Kinetic effect (vector)" itemID="63dbe76e-00000c71" lastModified="1675359142">
+  <timeline>
+    <DOMTimeline name="Kinetic effect (vector)">
+      <layers>
+        <DOMLayer name="Layer_1" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Kinetic (vector)" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-2.65" ty="-0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.45" y="0.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.46875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Kinetic (vector)" symbolType="graphic" centerPoint3DX="-2.2" centerPoint3DY="0.45" loop="loop">
+                  <matrix>
+                    <Matrix tx="-2.65" ty="-0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.45" y="0.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Kinetic (vector)" symbolType="graphic" centerPoint3DX="-2.2" centerPoint3DY="0.45" loop="loop">
+                  <matrix>
+                    <Matrix tx="-2.65" ty="-0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.45" y="0.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.44921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Kinetic (vector)" symbolType="graphic" centerPoint3DX="-2.2" centerPoint3DY="0.45" loop="loop">
+                  <matrix>
+                    <Matrix tx="-2.65" ty="-0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.45" y="0.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.421875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Kinetic (vector)" symbolType="graphic" centerPoint3DX="-2.2" centerPoint3DY="0.45" loop="loop">
+                  <matrix>
+                    <Matrix tx="-2.65" ty="-0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.45" y="0.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Kinetic (vector)" symbolType="graphic" centerPoint3DX="-2.2" centerPoint3DY="0.45" loop="loop">
+                  <matrix>
+                    <Matrix tx="-2.65" ty="-0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.45" y="0.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3203125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Kinetic (vector)" symbolType="graphic" centerPoint3DX="-2.2" centerPoint3DY="0.45" loop="loop">
+                  <matrix>
+                    <Matrix tx="-2.65" ty="-0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.45" y="0.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.26171875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Kinetic (vector)" symbolType="graphic" centerPoint3DX="-2.2" centerPoint3DY="0.45" loop="loop">
+                  <matrix>
+                    <Matrix tx="-2.65" ty="-0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.45" y="0.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1796875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Kinetic (vector)" symbolType="graphic" centerPoint3DX="-2.2" centerPoint3DY="0.45" loop="loop">
+                  <matrix>
+                    <Matrix tx="-2.65" ty="-0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.45" y="0.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[this.stop();
+this.visible = false;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

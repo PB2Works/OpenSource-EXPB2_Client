@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Game camera" itemID="63fb73e5-00000603" lastModified="1677423589">
+  <timeline>
+    <DOMTimeline name="Game camera">
+      <layers>
+        <DOMLayer name="Layer 1" color="#C86990" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/game layer joint" name="joint" centerPoint3DX="-16" centerPoint3DY="-358.75">
+                  <matrix>
+                    <Matrix tx="-66.5" ty="-409.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

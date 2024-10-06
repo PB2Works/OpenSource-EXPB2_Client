@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Water" itemID="63d3af97-00000c1a" linkageExportForAS="true" linkageClassName="water" lastModified="1674817431">
+  <timeline>
+    <DOMTimeline name="Water" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#C255E2">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 508" blendMode="overlay" centerPoint3DX="50" centerPoint3DY="50">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#C344F4" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 508" blendMode="overlay" centerPoint3DX="50" centerPoint3DY="50">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0.05078125" blueMultiplier="0.05078125" greenMultiplier="0.05078125" redOffset="145" greenOffset="242"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 508" blendMode="multiply" centerPoint3DX="50" centerPoint3DY="50">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0.05078125" blueMultiplier="0.05078125" greenMultiplier="0.05078125" redOffset="193" blueOffset="226" greenOffset="219"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 508" centerPoint3DX="50" centerPoint3DY="50">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.19921875" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

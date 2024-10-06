@@ -1,0 +1,166 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 782" itemID="6417dc58-000010f6" symbolType="graphic" lastModified="1679253189">
+  <timeline>
+    <DOMTimeline name="Symbol 782">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor color="#070A0A"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-4 -51|-47 -40!-47 -40|-63 -30!-63 -30|-71 -22!-71 -22|-71 0!-71 0[-71 5 -78 14!-78 14|-89 29!-89 29|-98 37!-98 37|-111 48!-111 48|-132 76!-132 76[-136 84 -117 116!-117 116[-110 150 -112 174!-112 174[-113 200 -119 204!-119 204|-131 208
+!-131 208|-139 219!-139 219|-135 236!-135 236|-125 244!-125 244|-114 252!-114 252|-117 293!-117 293|-103 325!-103 325|-86 352!-86 352|-62 358!-62 358[-44 357 -24 338!-24 338|-4 312!-4 312|0 300!0 300|2 282!2 282[31 254 37 239!37 239|51
+ 193!51 193[61 189 75 173!75 173[100 145 107 93!107 93[114 45 100 11!100 11|78 -22!78 -22|42 -51!42 -51[29 -58 -4 -51"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#19242C"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#0A0E0F"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-2 110|-1 109!-1 109|-3 155!-3 155|-12 185!-12 185|25 254!25 254[28 261 9 278!9 278|-1 281!-1 281[-18 272 -37 247!-37 247|-63 209!-63 209|-12 182!-12 182[-4 159 -4 134!-4 134|-2 110!-51 91|-53 75!-53 75|-6 59!-6 59|10 47!10 47|17 37
+!17 37|41 34!41 34[56 37 58 51!58 51|60 71!60 71|53 82!53 82[42 92 0 106!0 106|-36 118!-47 122|-48 122!-48 122|-114 131!-114 131[-123 98 -128 92!-128 92|-132 84!-132 84|-130 78!-130 78|-119 56!-119 56|-104 40!-104 40[-99 39 -82 51!-82
+ 51|-59 69!-59 69[-54 73 -51 91!-36 118|-43 120!-43 120|-47 121"/>
+                    <Edge strokeStyle="1" edges="
+!-36 118|-30 117!-30 117|-47 122"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!-47 122|-47 121"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-30 117|-2 108!-2 108|-2 110!-2 110|-30 117"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!-47 121|-51 91"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#090D0D"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!-1 137|-1 140!-1 140[0 156 4 162!4 162|33 178!33 178[52 188 44 200!44 200[48 211 39 234!39 234|24 260!24 260[21 239 8 219!8 219|-6 193!-6 193|-10 167!-10 167|-1 137!-2 114|-1 112!-1 112|-1 111!-1 111|-1 106!-1 106[-50 134 -110 130!-110
+ 130|-111 147!-111 147[-112 158 -104 160!-104 160[-85 169 -76 183!-76 183[-69 192 -60 212!-60 212[-29 267 -2 282!-2 282[7 286 -2 309!-2 309[-37 362 -69 356!-69 356[-104 350 -119 277!-119 277|-116 247!-116 247[-142 241 -143 226!-143 226
+[-144 213 -126 204!-126 204|-122 201!-126 97[-96 184 -122 201!-122 201|-86 197!-1 137|-2 114!-116 247|-87 251!-2 114|0 133!0 133|-1 137"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#0E1314"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!-68 -24|-70 -13!-70 -13|-71 -1!-71 -1|-84 18!-84 18[-97 38 -91 39!-91 39|-78 17!-78 17|-65 -3!-65 -3|-44 4!-44 4|-21 13!-21 13|-7 12!-7 12|2 9!2 9[10 12 10 37!10 37[10 53 -16 66!-16 66[-41 78 -50 76!-50 76|-76 57!-76 57[-98 38 -100 40
+!-100 40|-103 40!-103 40|-106 42!-106 42[-130 68 -131 88!-131 88|-122 103"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_5" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0F1213"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!49 192[56 215 32 245!32 245|16 266!16 266|21 253!21 253[25 251 8 222!8 222|-9 186!-9 186[-5 172 20 179!20 179[37 184 49 192!-109 157[-82 173 -54 219!-54 219[-23 270 -4 286!-4 286[3 291 8 282!8 282[14 305 -21 333!-21 333[-52 359 -71 357
+!-71 357[-106 315 -122 266!-122 266|-132 242!-132 242|-134 223!-134 223|-120 192!-120 192[-110 172 -109 157"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_6" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0074462890625" d="0.010345458984375" tx="-0.65" ty="5.85"/>
+                        </matrix>
+                        <GradientEntry color="#121A22" ratio="0"/>
+                        <GradientEntry color="#27363F" ratio="0.654901960784314"/>
+                        <GradientEntry color="#4D6277" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-9 -51[25 -58 74 -17!74 -17[114 17 108 79!108 79[102 134 74 166!74 166|47 196!47 196[39 189 22 242!22 242[5 295 -10 285!-10 285|-57 223!-57 223[-92 172 -102 173!-102 173|-135 100!-135 100[-133 56 -88 9!-88 9|-47 -31!-47 -31[-27 -48 -9
+ -51"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

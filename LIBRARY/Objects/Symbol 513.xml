@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 513" itemID="63c25e2b-00000af4" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 513">
+      <layers>
+        <DOMLayer name="Layer 1" color="#EBE042" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.064697265625" b="0.0097198486328125" c="-0.01605224609375" d="0.10675048828125" tx="-18.4" ty="42.4"/>
+                        </matrix>
+                        <GradientEntry color="#73805E" ratio="0"/>
+                        <GradientEntry color="#393F30" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0807037353515625" d="0.0807037353515625" tx="-17.05" ty="28.5"/>
+                        </matrix>
+                        <GradientEntry color="#73805E" ratio="0"/>
+                        <GradientEntry color="#393F30" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.117660522460938" d="0.091156005859375" tx="-2.8" ty="22.8"/>
+                        </matrix>
+                        <GradientEntry color="#73805E" ratio="0"/>
+                        <GradientEntry color="#393F30" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#4F8470" alpha="0.501960784313725"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="!639 790|623 822!767 546|679 718"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="!70 1516|32 1429!32 1429|-341 570"/>
+                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="!583 898|435 1182!435 1182|32 1429"/>
+                    <Edge fillStyle0="3" fillStyle1="3" strokeStyle="2" edges="!32 1429|-461 1526!-461 1526|-1032 945"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="!-1032 945|-725 90"/>
+                    <Edge fillStyle0="3" strokeStyle="1" edges="!-1133 1000|-480 1636!-480 1636|70 1516"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!70 1516|493 1260!493 1260|832 564!832 564|686 34!686 34|36 -358"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!36 -358|-784 12!-784 12|-1133 1000"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="!-341 570|-1032 945!-1032 945|-1133 1000"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!36 -358|-341 570"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 1802" itemID="63c25e2b-00000d51" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1802">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.00946044921875" c="0.00946044921875" d="0" tx="35.45" ty="-0.4"/>
+                        </matrix>
+                        <GradientEntry color="#D6D6D6" alpha="0.4" ratio="0"/>
+                        <GradientEntry color="#55B6E5" alpha="0.349019607843137" ratio="0.192156862745098"/>
+                        <GradientEntry color="#409BD5" alpha="0.2" ratio="0.549019607843137"/>
+                        <GradientEntry color="#348AC9" alpha="0.0980392156862745" ratio="0.831372549019608"/>
+                        <GradientEntry color="#3184C5" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!310 -174|-309 -174!-309 -174|-95 136!-95 136[5 214 105 136!105 136|310 -174"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

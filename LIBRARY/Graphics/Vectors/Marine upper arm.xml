@@ -1,0 +1,81 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Marine upper arm" itemID="63d5005a-000013c2" symbolType="graphic" lastModified="1674911345">
+  <timeline>
+    <DOMTimeline name="Marine upper arm">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#777777"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!36 218[17 189 -26 180!-26 180[-81 172 -116 188!-116 188[-127 127 -121 60!-121 60[-113 -105 -76 16!-76 16[-40 137 61 103!61 103[62 170 36 218"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E1E1E1"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#0099FF"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#4D4D4D"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#3C3C3C"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!22 -2[22 12 12 22!12 22[2 32 -12 32!-12 32[-26 32 -36 22!-36 22[-46 12 -46 -2!-46 -2[-46 -16 -36 -26!-36 -26[-26 -36 -12 -36!-12 -36[2 -36 12 -26!12 -26[22 -16 22 -2"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!62 18|57 29!57 29|46 34!46 34|34 29!34 29|30 18!30 18|34 6!34 6|46 2!46 2|57 6!57 6|62 18"/>
+                    <Edge fillStyle1="1" strokeStyle="2" edges="!-74 7[-81 -27 -47 -52!-47 -52[-14 -78 34 -66!34 -66[82 -55 77 1!77 1|75 39"/>
+                    <Edge strokeStyle="2" edges="!75 39|75 40!75 40|74.5 40.5"/>
+                    <Edge fillStyle0="1" strokeStyle="2" edges="!74.5 40.5|75 39"/>
+                    <Edge fillStyle0="3" fillStyle1="1" strokeStyle="2" edges="!74.5 40.5[#36.DE #4C.18 38 88!38 88[12 107 -15 99!-15 99[-43 92 -59 59!-59 59|-74 7"/>
+                    <Edge fillStyle0="3" strokeStyle="2" edges="!-74 7[-79 20 -73 58!-73 58|-92 209!-92 209[-71 312 -38 282!-38 282[-6 252 6 222!6 222[16 187 27 165!27 165|70 64!70 64|74.5 40.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

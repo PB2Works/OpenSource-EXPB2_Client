@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 1255" itemID="63c25e2b-00000c2f" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1255">
+      <layers>
+        <DOMLayer name="Layer_1" color="#7588E6" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0.055572509765625" d="0.009490966796875" tx="14.5" ty="-7.3"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" alpha="0.901960784313726" ratio="0"/>
+                            <GradientEntry color="#FFFFFF" alpha="0.2" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!0 0|1180 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

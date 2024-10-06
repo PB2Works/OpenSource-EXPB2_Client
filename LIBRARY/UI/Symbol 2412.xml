@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/Symbol 2412" itemID="63c25e2b-00000e36" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2412">
+      <layers>
+        <DOMLayer name="Layer 1" color="#70C550" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Symbol 2107" name="ch0" centerPoint3DX="110.5" centerPoint3DY="12">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter contrast="1" saturation="-100" hue="-180"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

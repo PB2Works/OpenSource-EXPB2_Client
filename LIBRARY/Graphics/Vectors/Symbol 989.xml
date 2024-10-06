@@ -1,0 +1,85 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 989" itemID="63c25e2b-00000bc3" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 989">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#3C3C3C"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!82 -93[88 -65 81 -43!81 -43[75 -27 35 8!35 8|24 9!24 9[3 -52 12 -102!12 -102[46 -129 77 -109!77 -109|82 -93"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCCCCC"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#1A1A1A"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#7B7B7B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="3">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#AAAAAA"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="2" edges="!-145 180[-205 183 -225 165!-225 165[-248 136 -223 83!-223 83[-195 28 -150 5!-150 5[-106 -14 -46 -21!-46 -21[4 -19 25 -36!25 -36[47 -45 53 -33!53 -33[54 -25 64 -20!64 -20[74 -15 54 31!54 31[33 76 0 106"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!0 106|39 278!39 278|11 280!11 280|-25 123"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!-25 123|0 106"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!-105 168[-54 222 -14 291!-14 291[-26 296 -46 308!-46 308|-145 180"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!-145 180|-105 168"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="3" edges="!-164 53|-143 84!-143 84[-176 129 -225 165"/>
+                    <Edge fillStyle1="1" strokeStyle="2" edges="!-25 123|-62 146!-62 146|-105 168"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

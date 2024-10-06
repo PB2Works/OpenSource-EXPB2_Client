@@ -1,0 +1,132 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 835" itemID="63c25e2b-00000b86" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 835">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#4E4D3F"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#444337"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#2C2B24"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="2" edges="!118 203[107 77 99 57!99 57|76 6"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!76 6|34 125!34 125|39 129!39 129|47 140!47 140|61 200!61 200|118 203"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#3F3E33"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#605E4D"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#36352C"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#444337"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="2" strokeStyle="2" edges="!102 231|56 228!56 228|50 230!50 230[45 232 43 242!43 242[38 257 37 294!37 294|55 323!55 323|110 328!110 328|115 324!115 324|128 295!128 295|131 271!131 271|113 232"/>
+                    <Edge fillStyle0="2" edges="!113 232|110 232!110 232|102 231"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!22 203|-14 231!-14 231|-43 204!-43 204|-57 173!-57 173|-65 150!-65 150|-80 63!-80 63|-63 32!-63 32|-61 32!-61 32|-11 51!-11 51|-12 112!-12 112|-2 152!-2 152|11 158!11 158|22 203"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#605E4D"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#23241F"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#444337"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#171A14"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="3">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#3A392F"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="3" edges="!-61 32|-61 15!-61 15[-62 0 -37 -24!-37 -24[-7 -41 26 -35!26 -35[59 -29 76 6"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!73 15[37 63 13 58!13 58|-11 51"/>
+                    <Edge fillStyle1="1" edges="!76 6|73 15"/>
+                    <Edge fillStyle1="2" edges="!73 15|34 125!34 125|39 129!39 129|47 140!47 140|61 200!61 200|107 203!4 217|22 203!22 203|11 158!11 158|-2 152!-2 152|-12 112!-12 112|-11 51"/>
+                    <Edge fillStyle1="1" edges="!-11 51|-61 32"/>
+                    <Edge fillStyle1="2" edges="!110 232|56 228!56 228|50 230!50 230[45 232 43 242!43 242[38 257 37 294!37 294|55 323!55 323|110 328"/>
+                    <Edge fillStyle1="2" strokeStyle="2" edges="!107 203|108 210!108 210|110 232!110 328|99 348!99 348|60 355!60 355[46 354 32 342!32 342|21 329!21 329|7 285!7 285|4 258!4 258|4 217"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

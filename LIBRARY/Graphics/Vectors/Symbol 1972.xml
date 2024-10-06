@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 1972" itemID="63c25e2b-00000d94" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1972">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.01416015625" c="0.0100250244140625" d="0" tx="34.45" ty="-0.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#139FFD" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.01416015625" c="-0.0100250244140625" d="0" tx="35.55" ty="-0.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#139FFD" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!700 256|689 258!689 258[620 258 572 181!572 181[524 104 525 -3!525 -3[524 -111 572 -188!572 -188[620 -265 689 -264!689 -264|700 -264"/>
+                    <Edge fillStyle1="2" edges="!700 -264|711 -264!711 -264[779 -265 828 -188!828 -188[875 -111 875 -3!875 -3[875 104 828 181!828 181[779 258 711 258!711 258|700 256"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!700 -264|700 256"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,101 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Lensflare" itemID="63d3b1c0-00000c8e" linkageExportForAS="true" linkageClassName="lens_flare" lastModified="1674817984">
+  <timeline>
+    <DOMTimeline name="Lensflare">
+      <layers>
+        <DOMLayer name="Layer 1" color="#E0D0F3">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1447" name="f6" cacheAsBitmap="true" blendMode="add" centerPoint3DX="689.9" centerPoint3DY="29">
+                  <matrix>
+                    <Matrix tx="650.9" ty="-9.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#69B4DD">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1444" name="f5" cacheAsBitmap="true" blendMode="add" centerPoint3DX="614.95">
+                  <matrix>
+                    <Matrix tx="599.95" ty="-14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#945EAD">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1441" name="f4" cacheAsBitmap="true" blendMode="add" centerPoint3DX="463.95" centerPoint3DY="-4">
+                  <matrix>
+                    <Matrix tx="457.45" ty="-10.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#D4ED80">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1438" name="f3" cacheAsBitmap="true" blendMode="add" centerPoint3DX="331.95" centerPoint3DY="29">
+                  <matrix>
+                    <Matrix tx="292.95" ty="-9.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#9172E4">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1435" name="f2" cacheAsBitmap="true" blendMode="add" centerPoint3DX="122">
+                  <matrix>
+                    <Matrix tx="114" ty="-8.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#68FA31" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1432" name="f1" cacheAsBitmap="true" blendMode="add" centerPoint3DX="75" centerPoint3DY="74.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

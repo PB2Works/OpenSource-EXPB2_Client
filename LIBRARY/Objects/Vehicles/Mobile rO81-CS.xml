@@ -1,0 +1,115 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Vehicles/Mobile rO81-CS" itemID="63d51a07-000013df" linkageExportForAS="true" linkageClassName="veh_jeep" lastModified="1674910215">
+  <timeline>
+    <DOMTimeline name="Mobile rO81-CS">
+      <layers>
+        <DOMLayer name="Layer 1" color="#F55854">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Vehicle statusbar" name="gui" centerPoint3DX="89.7" centerPoint3DY="-67.75">
+                  <matrix>
+                    <Matrix tx="-7.2" ty="-83.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#83B762">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1493" name="w2" centerPoint3DX="120.3" centerPoint3DY="74.4">
+                  <matrix>
+                    <Matrix tx="90.1" ty="45.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#5EF189">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1489" name="w2" centerPoint3DX="123.6" centerPoint3DY="78.85">
+                  <matrix>
+                    <Matrix tx="90.1" ty="45.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#B857A9">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1489" name="w1" centerPoint3DX="-17.6" centerPoint3DY="78.85">
+                  <matrix>
+                    <Matrix tx="-51.1" ty="45.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1493" name="w1" centerPoint3DX="-20.9" centerPoint3DY="74.4">
+                  <matrix>
+                    <Matrix tx="-51.1" ty="45.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#74EE8C" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1487" name="carbody" centerPoint3DX="118.55" centerPoint3DY="49.15">
+                  <matrix>
+                    <Matrix a="1.00042724609375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1491" name="carbody" centerPoint3DX="109.8" centerPoint3DY="46.2">
+                  <matrix>
+                    <Matrix a="1.00042724609375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

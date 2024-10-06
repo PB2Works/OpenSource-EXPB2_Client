@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 2204" itemID="63c25e2b-00000e04" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2204">
+      <layers>
+        <DOMLayer name="Layer 1" color="#B46D6F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.01312255859375" c="-0.013092041015625" d="0" ty="-19.4"/>
+                        </matrix>
+                        <GradientEntry color="#5FAEFE" alpha="0" ratio="0"/>
+                        <GradientEntry color="#8CCAFE" alpha="0.427450980392157" ratio="0.384313725490196"/>
+                        <GradientEntry color="#C5EDFE" alpha="0.56078431372549" ratio="0.690196078431373"/>
+                        <GradientEntry color="#D0EFFE" alpha="0.635294117647059" ratio="0.854901960784314"/>
+                        <GradientEntry color="#E6F5FF" alpha="0.780392156862745" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!41 -173|-41 -173!-41 -173|-41 -224!-41 -224|-41 -226!-41 -226[-41 -381 -29 -490!-29 -490[-17 -602 0 -602!0 -602[17 -602 29 -490!29 -490[41 -381 41 -226!41 -226|41 -224!41 -224|41 -173"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 2365" itemID="63c25e2b-00000e34" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2365">
+      <layers>
+        <DOMLayer name="Layer 1" color="#B15384" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#1E1E1E"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#CC0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1355 360|4136 360!4136 360|4136 0!4136 0|1355 0"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1355 0|1355 360"/>
+                    <Edge fillStyle1="2" edges="!1355 360|-1725 360!-1725 360|-1725 0!-1725 0|1355 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

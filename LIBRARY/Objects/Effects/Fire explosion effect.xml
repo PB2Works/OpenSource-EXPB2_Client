@@ -1,0 +1,132 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Effects/Fire explosion effect" itemID="63d3ae1f-00000bf3" linkageExportForAS="true" linkageClassName="explosion_fire" lastModified="1674817055">
+  <timeline>
+    <DOMTimeline name="Fire explosion effect">
+      <layers>
+        <DOMLayer name="Layer 1" color="#A860F4" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="25" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="-12.96875, 0" startPointB="#FFFFF8.5D, 0" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="-12.96875, #FFFFFA.A1" anchorPointA="-9.171875, -9.171875" controlPointB="#FFFFF8.5D, -3.1640625" anchorPointB="#FFFFFA.99, #FFFFFA.99"/>
+                    <MorphCurves controlPointA="#FFFFFA.A1, -12.96875" anchorPointA="0, -12.96875" controlPointB="-3.1640625, #FFFFF8.5D" anchorPointB="0, #FFFFF8.5D"/>
+                    <MorphCurves controlPointA="#5.5F, -12.96875" anchorPointA="#9.2B, -9.171875" controlPointB="#3.2A, #FFFFF8.5D" anchorPointB="#5.66, #FFFFFA.99"/>
+                    <MorphCurves controlPointA="#C.F8, #FFFFFA.A1" anchorPointA="#C.F8, 0" controlPointB="#7.A3, -3.1640625" anchorPointB="#7.A3, 0"/>
+                    <MorphCurves controlPointA="#C.F8, #5.5F" anchorPointA="#9.2B, #9.2B" controlPointB="#7.A3, #3.2A" anchorPointB="#5.66, #5.66"/>
+                    <MorphCurves controlPointA="#5.5F, #C.F8" anchorPointA="0, #C.F8" controlPointB="#3.2A, #7.A3" anchorPointB="0, #7.A3"/>
+                    <MorphCurves controlPointA="#FFFFFA.A1, #C.F8" anchorPointA="-9.171875, #9.2B" controlPointB="-3.1640625, #7.A3" anchorPointB="#FFFFFA.99, #5.66"/>
+                    <MorphCurves controlPointA="-12.96875, #5.5F" anchorPointA="-12.96875, 0" controlPointB="#FFFFF8.5D, #3.2A" anchorPointB="#FFFFF8.5D, 0"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="-12.96875, 0" startPointB="#FFFFF8.5D, 0" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="-12.96875, #FFFFFA.A1" anchorPointA="-9.171875, -9.171875" controlPointB="#FFFFF8.5D, -3.1640625" anchorPointB="#FFFFFA.99, #FFFFFA.99"/>
+                    <MorphCurves controlPointA="#FFFFFA.A1, -12.96875" anchorPointA="0, -12.96875" controlPointB="-3.1640625, #FFFFF8.5D" anchorPointB="0, #FFFFF8.5D"/>
+                    <MorphCurves controlPointA="#5.5F, -12.96875" anchorPointA="#9.2B, -9.171875" controlPointB="#3.2A, #FFFFF8.5D" anchorPointB="#5.66, #FFFFFA.99"/>
+                    <MorphCurves controlPointA="#C.F8, #FFFFFA.A1" anchorPointA="#C.F8, 0" controlPointB="#7.A3, -3.1640625" anchorPointB="#7.A3, 0"/>
+                    <MorphCurves controlPointA="#C.F8, #5.5F" anchorPointA="#9.2B, #9.2B" controlPointB="#7.A3, #3.2A" anchorPointB="#5.66, #5.66"/>
+                    <MorphCurves controlPointA="#5.5F, #C.F8" anchorPointA="0, #C.F8" controlPointB="#3.2A, #7.A3" anchorPointB="0, #7.A3"/>
+                    <MorphCurves controlPointA="#FFFFFA.A1, #C.F8" anchorPointA="-9.171875, #9.2B" controlPointB="-3.1640625, #7.A3" anchorPointB="#FFFFFA.99, #5.66"/>
+                    <MorphCurves controlPointA="-12.96875, #5.5F" anchorPointA="-12.96875, 0" controlPointB="#FFFFF8.5D, #3.2A" anchorPointB="#FFFFF8.5D, 0"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.20526123046875" d="0.20526123046875"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.125490196078431"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.352941176470588" ratio="0.407843137254902"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!2347 -2348[3320 -1375 3320 0!3320 0[3320 1375 2347 2347!2347 2347[1375 3320 0 3320!0 3320[-1375 3320 -2348 2347!-2348 2347[-3320 1375 -3320 0!-3320 0[-3320 -1375 -2348 -2348!-2348 -2348[-1375 -3320 0 -3320!0 -3320[1375 -3320 2347 -2348"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.120849609375" d="0.120849609375"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.0392156862745098" ratio="0.00784313725490196"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.0117647058823529" ratio="0.576470588235294"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1382 -1383[1955 -810 1955 0!1955 0[1955 810 1382 1382!1382 1382[810 1955 0 1955!0 1955[-810 1955 -1383 1382!-1383 1382[-1955 810 -1955 0!-1955 0[-1955 -810 -1383 -1383!-1383 -1383[-810 -1955 0 -1955!0 -1955[810 -1955 1382 -1383"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 1555" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[this.stop();
+this.visible = false;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#69D9F9">
+          <frames>
+            <DOMFrame index="0" duration="27" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Effects/Explosion effect" name="expl" blendMode="add" centerPoint3DX="-31.3" centerPoint3DY="-25">
+                  <matrix>
+                    <Matrix a="1.3359375" d="1.3359375" tx="-131.3" ty="-97.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

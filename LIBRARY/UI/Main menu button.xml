@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/Main menu button" itemID="63d3b20d-00000ca5" linkageExportForAS="true" linkageClassName="com.pb2.oldui.menu_button_50" lastModified="1692734046" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Main menu button">
+      <layers>
+        <DOMLayer name="Layer 1" color="#0EB0F3">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2222" name="ghost" centerPoint3DX="104.3" centerPoint3DY="10.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9BEEE8" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt" selected="true" width="178.35" height="14" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="13.4" ty="4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CAMPAGIN</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono" fillColor="#BBD7FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#77D074">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2219" name="btn_over" blendMode="add" centerPoint3DX="100.5" centerPoint3DY="23.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

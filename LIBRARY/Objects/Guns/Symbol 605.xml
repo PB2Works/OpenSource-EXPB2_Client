@@ -1,0 +1,340 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Guns/Symbol 605" itemID="63c25e2b-00000b29" linkageExportForAS="true" linkageClassName="gun_shotgun_b" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 605">
+      <layers>
+        <DOMLayer name="Layer 1" color="#DA89AB">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 604" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Reload indicator" centerPoint3DX="37.35" centerPoint3DY="30.95">
+                  <matrix>
+                    <Matrix a="0.32000732421875" d="0.32000732421875" tx="6.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="204" blueOffset="255" greenOffset="204"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#B28BFF">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#1A1A1A"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#595959"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#004866"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#007BCC"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#003366"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!118 -69[172 -65 180 -41"/>
+                    <Edge fillStyle0="5" strokeStyle="1" edges="!118 -69[87 -99 17 -102"/>
+                    <Edge fillStyle0="5" fillStyle1="2" strokeStyle="1" edges="!17 -102[32 -78 25 -43!25 -43[74 -51 118 -69"/>
+                    <Edge fillStyle0="4" fillStyle1="6" strokeStyle="2" edges="!261 -17|250 -41"/>
+                    <Edge fillStyle1="6" strokeStyle="2" edges="!250 -41|281 -41!281 -41|292 -17"/>
+                    <Edge fillStyle0="6" fillStyle1="6" strokeStyle="2" edges="!261 -17|292 -17"/>
+                    <Edge fillStyle1="4" strokeStyle="1" edges="!180 -41|250 -41"/>
+                    <Edge fillStyle1="6" strokeStyle="2" edges="!292 10|281 36!281 36|250 36"/>
+                    <Edge fillStyle0="4" fillStyle1="6" strokeStyle="2" edges="!250 36|261 10"/>
+                    <Edge fillStyle0="6" fillStyle1="6" strokeStyle="2" edges="!261 10|292 10"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!188 36|175 54!175 54|158 48!158 48|153 47!153 47|125 47!125 47|81 44!81 44|66 44"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!66 44[49 54 40 71!40 71|36 80"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!-37 44|-37 40!-37 40|66 40!66 40|66 44"/>
+                    <Edge strokeStyle="1" edges="!125 47[109 81 36 80"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!36 80[24 105 26 142!26 142[-6 165 -40 142"/>
+                    <Edge fillStyle1="3" strokeStyle="1" edges="!-40 142[-26 96 -38 49"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-38 49|-37 44"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!-37 44|-80 53"/>
+                    <Edge fillStyle1="4" strokeStyle="1" edges="!250 36|188 36"/>
+                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!67 -11|46 19!132 -11|111 19!100 -11|79 19"/>
+                    <Edge fillStyle0="2" fillStyle1="4" strokeStyle="1" edges="!188 36[166 -12 180 -41"/>
+                    <Edge fillStyle0="4" fillStyle1="6" strokeStyle="2" edges="!261 10|261 -17"/>
+                    <Edge fillStyle1="6" strokeStyle="2" edges="!292 -17|292 10"/>
+                    <Edge fillStyle0="2" fillStyle1="5" strokeStyle="1" edges="!-17 -81[6 -56 -17 -23!-17 -23[-106 3 -146 -10"/>
+                    <Edge fillStyle1="5" strokeStyle="1" edges="!-146 -10[-137 -96 -17 -81"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-80 53|-154 53!-154 53|-171 -3!-171 -3|-146 -10"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="!-40 142|-12 142!-12 142[11 96 -3 49!-3 49|-38 49"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!-146 -10|-80 53"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!-17 -81|17 -102"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#EEB681">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="-1.047607421875" tx="7.35" ty="-1.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="-1.047607421875" tx="7.35" ty="-1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="-1.047607421875" tx="7.35" ty="-1.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="-1.047607421875" tx="9.35" ty="-4.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="-1.047607421875" tx="9" ty="-4.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="-1.047607421875" tx="8.7" ty="-3.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="-1.047607421875" tx="8.35" ty="-3.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="-1.047607421875" tx="8" ty="-2.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="-1.047607421875" tx="7.7" ty="-2.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="-1.047607421875" tx="7.35" ty="-1.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#2BD7AD" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="7.8" ty="1.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="9.8" ty="4.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="9.45" ty="4.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="9.15" ty="3.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="8.8" ty="3.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="8.45" ty="2.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="8.15" ty="2.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 602" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="7.8" ty="1.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

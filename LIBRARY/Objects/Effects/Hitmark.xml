@@ -1,0 +1,100 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Effects/Hitmark" itemID="63d3ac5b-00000be2" linkageExportForAS="true" linkageClassName="altblood" lastModified="1675160899" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Hitmark">
+      <layers>
+        <DOMLayer name="Layer 1" color="#B7AB86" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2039" centerPoint3DX="10" centerPoint3DY="10">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2039" centerPoint3DX="10" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix a="1.208740234375" d="1.208740234375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2039" centerPoint3DX="10" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix a="1.41751098632813" d="1.41751098632813"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2039" centerPoint3DX="10" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix a="1.62625122070313" d="1.62625122070313"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2039" centerPoint3DX="10" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix a="1.83500671386719" d="1.83500671386719"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[this.visible = false;
+stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2039" selected="true" centerPoint3DX="10" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix a="1.83500671386719" d="1.83500671386719"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

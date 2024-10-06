@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Guns/Symbol 1312" itemID="63c25e2b-00000c53" linkageExportForAS="true" linkageClassName="gun_pixel_rifle" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1312">
+      <layers>
+        <DOMLayer name="Layer 1" color="#9160B9">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFFF00"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!588 -58|460 -58"/>
+                    <Edge fillStyle1="2" edges="!460 -58|460 -121!460 -121|588 -121!588 -121|588 -58!588 -58|716 -58!716 -58|716 5!716 5|588 5"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!460 5|588 5"/>
+                    <Edge fillStyle1="2" edges="!588 5|588 68!588 68|460 68!460 68|460 5"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!588 5|588 -58"/>
+                    <Edge fillStyle0="1" edges="!460 -58|460 5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 1311" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#09FEA2" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-50 132|-50 196!-50 196|-177 196!-177 196|-177 5!-177 5|-113 5!-113 5|-113 -59!-113 -59|332 -59!332 -59|332 -123!332 -123|396 -123!396 -123|396 -59!396 -59|460 -59!460 -59|460 5!460 5|269 5!141 132|205 132!205 132|205 196!205 196|141
+ 196!141 196|141 132"/>
+                    <Edge fillStyle1="2" edges="
+!269 5|269 68!269 68|205 68"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!205 68|205 5!205 5|269 5"/>
+                    <Edge fillStyle1="1" edges="
+!205 68|141 68!141 68|141 132!141 132|78 132!78 132|78 68!78 68|14 68!14 68|14 132!14 132|-50 132"/>
+                    <Edge fillStyle0="1" edges="
+!-50 132|-113 132!-113 132|-113 68!-113 68|-50 68!-50 68|-50 132"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

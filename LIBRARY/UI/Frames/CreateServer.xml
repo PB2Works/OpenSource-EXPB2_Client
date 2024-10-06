@@ -1,0 +1,392 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/Frames/CreateServer" itemID="64ef9ebd-00000781" lastModified="1693620809">
+  <timeline>
+    <DOMTimeline name="CreateServer">
+      <layers>
+        <DOMLayer name="Actions" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+statusText.text = "";
+
+var rootClass = MovieClip(root);
+
+addServerButton.addEventListener(
+	MouseEvent.CLICK,
+	function() {
+		var sname = nameTextField.text.replace("\r", "");
+		var host = hostTextField.text.replace("\r", "");
+		var port = portTextField.text.replace("\r", "");
+		var server = new <String>[sname, host, port];
+		rootClass.customServers.push(server);
+		statusText.text = 'Added "';
+		statusText.appendText(sname);
+		statusText.appendText('"');
+		rootClass.SaveGame();
+});
+
+cancelButton.addEventListener(
+	MouseEvent.CLICK,
+	function() {
+		rootClass.gotoAndStop("loginform");
+});]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Header" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.3350830078125" d="0.0098114013671875" tx="-29.1" ty="-157"/>
+                        </matrix>
+                        <GradientEntry color="#66CCFF" alpha="0.411764705882353" ratio="0"/>
+                        <GradientEntry color="#66CCFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4909 -2900|-6071 -2900!-6071 -2900|-6071 -3320!-6071 -3320|4909 -3320!4909 -3320|4909 -2900"/>
+                    <Edge cubics="!4909 -3320(;4909,-3320 4909,-2900 4909,-2900q4909 -3320 4909 -2900);"/>
+                    <Edge cubics="!-6071 -2900(;-6071,-2900 -6071,-3320 -6071,-3320q-6071 -2900 -6071 -3320);"/>
+                    <Edge cubics="!-6071 -3320(;-6071,-3320 4909,-3320 4909,-3320q-6071 -3320 4909 -3320);"/>
+                    <Edge cubics="!4909 -2900(;4909,-2900 -6071,-2900 -6071,-2900q4909 -2900 -6071 -2900);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="160.2" height="13.15" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-301.55" ty="-162"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Add game server</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" letterSpacing="2" lineSpacing="0" lineHeight="13.15" bitmapSize="240" face="EuropeExt Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Status Text" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="statusText" width="301.95" height="14" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-36.95" ty="-90.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>What are you doing here ?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Other Static Texts" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="355.45" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-100.75" ty="-120.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Write game server's informations to add into list</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#83EC7D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="196" height="70">
+                  <matrix>
+                    <Matrix tx="-287.6" ty="-41"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Example Server:&#xD;&#xD;Name: A Cool Server&#xD;Host: 127.0.0.1&#xD;Port: 5050</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono" fillColor="#88D0FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Inputs" color="#00FFFF" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Name" color="#009999" parentLayerIndex="4" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Text Field" color="#FF4F4F" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMInputText name="nameTextField" width="186.8" height="14" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="3.2" ty="-26"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Info Text" color="#FF0000" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="41.45" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-57.6" ty="-25.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NAME:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Field Shape" color="#669900" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!20 -196|20 -556!20 -556|4060 -556!4060 -556|4060 -196!4060 -196|20 -196"/>
+                    <Edge cubics="!20 -196(;20,-196 20,-556 20,-556q20 -196 20 -556);"/>
+                    <Edge cubics="!20 -556(;20,-556 4060,-556 4060,-556q20 -556 4060 -556);"/>
+                    <Edge cubics="!4060 -196(;4060,-196 20,-196 20,-196q4060 -196 20 -196);"/>
+                    <Edge cubics="!4060 -556(;4060,-556 4060,-196 4060,-196q4060 -556 4060 -196);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Host" color="#009999" parentLayerIndex="4" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Text Field" color="#FF4F4F" parentLayerIndex="9" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMInputText name="hostTextField" width="186.8" height="14" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="3.2" ty="-3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Info Text" color="#FF0000" parentLayerIndex="9" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="41.45" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-57.6" ty="-2.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>HOST:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Field Shape" color="#669900" parentLayerIndex="9" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!20 264|20 -96!20 -96|4060 -96!4060 -96|4060 264!4060 264|20 264"/>
+                    <Edge cubics="!20 264(;20,264 20,-96 20,-96q20 264 20 -96);"/>
+                    <Edge cubics="!20 -96(;20,-96 4060,-96 4060,-96q20 -96 4060 -96);"/>
+                    <Edge cubics="!4060 264(;4060,264 20,264 20,264q4060 264 20 264);"/>
+                    <Edge cubics="!4060 -96(;4060,-96 4060,264 4060,264q4060 -96 4060 264);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Port" color="#009999" parentLayerIndex="4" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Text Field" color="#FF4F4F" parentLayerIndex="13" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMInputText name="portTextField" width="51.85" height="14" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="3.2" ty="20"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Field Shape" color="#669900" parentLayerIndex="13" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!20 724|20 364!20 364|1361 364!1361 364|1361 724!1361 724|20 724"/>
+                    <Edge cubics="!20 724(;20,724 20,364 20,364q20 724 20 364);"/>
+                    <Edge cubics="!20 364(;20,364 1361,364 1361,364q20 364 1361 364);"/>
+                    <Edge cubics="!1361 724(;1361,724 20,724 20,724q1361 724 20 724);"/>
+                    <Edge cubics="!1361 724(;1361,724 1361,364 1361,364q1361 724 1361 364);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Info Text" color="#FF0000" parentLayerIndex="13" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="41.45" height="14" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-57.6" ty="20.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>PORT:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Buttons" color="#9933CC" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="Add Server" color="#009999" parentLayerIndex="17" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Buttons/Symbol 2148" name="addServerButton" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-122.6" ty="66"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="83.55" height="13.15" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-76.4" ty="69.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Add Server</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="0" lineHeight="13.15" bitmapSize="240" face="EuropeExt Regular" fillColor="#88D0FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Cancel" color="#FF0000" parentLayerIndex="17" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Buttons/Symbol 2148" name="cancelButton" symbolType="button">
+                  <matrix>
+                    <Matrix tx="72.4" ty="66"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="48.8" height="13.15" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="135.6" ty="69.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Cancel</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" lineHeight="13.15" bitmapSize="240" face="EuropeExt Regular" fillColor="#88D0FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

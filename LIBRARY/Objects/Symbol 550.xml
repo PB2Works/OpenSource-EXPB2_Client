@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 550" itemID="63c25e2b-00000b0b" scaleGridLeft="4.45" scaleGridRight="93.9" scaleGridTop="5.7" scaleGridBottom="10.05" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 550">
+      <layers>
+        <DOMLayer name="Layer 1" color="#6540E7" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.8"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1879 0|88 0!88 0|80 0!80 0[0 0 0 80!0 80|0 113!0 113|0 202!0 202|0 220!0 220[0 300 80 300!80 300|88 300!88 300|1879 300!1879 300|1920 300!1920 300[2000 300 2000 220!2000 220|2000 202!2000 202|2000 113!2000 113|2000 80!2000 80[2000 0
+ 1920 0!1920 0|1879 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

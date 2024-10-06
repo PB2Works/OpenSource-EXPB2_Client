@@ -1,0 +1,100 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Guns/Symbol 1393" itemID="63c25e2b-00000c90" linkageExportForAS="true" linkageClassName="m4a1_real" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1393">
+      <layers>
+        <DOMLayer name="Layer 1" color="#F206DC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 1392" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#B4B51B">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 1391" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="7.4" ty="3.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 1391" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="7.4" ty="3.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#7FEDAA" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#1D1F1F"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#0D0D0D"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!14 -57|-6 -49!-6 -49|-23 -46!-23 -46|-23 -50!-23 -50|-203 -53!-203 -53[-224 -53 -224 -31!-224 -31|-220 38!-220 38[-213 96 -205 96!-205 96|-183 92!-183 92|-159 82!-159 82|-170 72!-170 72|-159 74!-159 74|-133 40!-133 40|-130 59!-130 59
+|-42 36!-42 36|-42 27!-42 27|-45 13!-45 13|-35 0!-35 0[-23 -9 -11 -9!-11 -9|11 7!11 7[22 20 22 34!22 34[22 47 4 72!4 72|-45 120!-45 120|-27 140!-27 140[-9 153 15 153!15 153[27 153 32 127!32 127[39 91 71 65!71 65|137 65!137 65|150 97!150
+ 97|215 73!215 73|209 36!209 36[209 2 226 2!226 2[235 2 245 9!245 9|390 -5!390 -5|514 -21!514 -21|611 -17!611 -17|674 -16!674 -16|677 -23!677 -23|682 -32!682 -32|680 -40!680 -40|603 -41!603 -41|550 -40!550 -40|484 -42!484 -42|483 -102
+!483 -102|480 -105!480 -105|469 -108!469 -108[456 -108 450 -101!450 -101|442 -86!442 -86[427 -63 355 -64!355 -64|265 -62!265 -62|226 -59!226 -59|212 -61!212 -61|202 -64!202 -64|203 -82!203 -82[203 -99 157 -107!157 -107|60 -115!60 -115
+[46 -115 28 -94!28 -94|14 -57"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!85 -73[93 -65 147 -62!147 -62[202 -58 176 -87!176 -87|92 -94!92 -94[79 -85 85 -73"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!22 -11|63 -11!63 -11|81 -29!81 -29|153 -26!221 -45|240 -20"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!464 -74[461 -80 455 -80!455 -80|447 -74!447 -74|442 -63!442 -63|447 -51!447 -51[450 -46 455 -46!455 -46[461 -46 464 -51!464 -51|467 -63!467 -63|464 -74"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!659 -30|659 -34!659 -34|670 -34!670 -34|670 -30!670 -30|659 -30"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!-202 -26|-52 -26"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!-154 9|-171 9!-171 9|-171 3!-171 3|-154 3!-154 3|-154 9"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!132 26|125 26!125 26|106 43!106 43|102 50!102 50[98 48 98 32!98 32[96 28 89 26!89 26|80 35!80 35|86 54!86 54|127 58!127 58[133 48 132 26"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

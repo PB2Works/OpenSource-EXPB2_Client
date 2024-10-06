@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 1473" itemID="63c25e2b-00000cbd" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1473">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0049285888671875" c="-0.0052337646484375" d="0" tx="34.4" ty="-1.35"/>
+                        </matrix>
+                        <GradientEntry color="#FF4343" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FF0000" alpha="0.768627450980392" ratio="0.552941176470588"/>
+                        <GradientEntry color="#FF0000" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0049285888671875" c="-0.00848388671875" d="0" tx="34.9" ty="-1.35"/>
+                        </matrix>
+                        <GradientEntry color="#FF4343" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FF0000" alpha="0.768627450980392" ratio="0.552941176470588"/>
+                        <GradientEntry color="#FF0000" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!676 63[648 58 631 36!631 36[602 11 602 -27!602 -27[602 -64 631 -91!631 -91[648 -114 676 -116"/>
+                    <Edge fillStyle1="2" edges="!676 -116|678 -116!678 -116|698 -119!698 -119[755 -119 795 -91!795 -91[836 -64 836 -27!836 -27[836 11 795 36!795 36[755 63 698 63!698 63|678 63!678 63|676 63"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!676 -116|676 63"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

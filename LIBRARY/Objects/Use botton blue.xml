@@ -1,0 +1,86 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Use botton blue" itemID="63d51b2e-000013f2" linkageExportForAS="true" linkageClassName="switchh_blue" lastModified="1693647408">
+  <timeline>
+    <DOMTimeline name="Use botton blue">
+      <layers>
+        <DOMLayer name="Layer 1" color="#F03DCB" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 573" selected="true" centerPoint3DX="-4.15" centerPoint3DY="-10.15">
+                  <matrix>
+                    <Matrix tx="-14.5" ty="-15.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#B0F85A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 570" name="d1" centerPoint3DX="0.55" centerPoint3DY="-4.95">
+                  <matrix>
+                    <Matrix tx="-15.5" ty="-15.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" greenMultiplier="0" redOffset="30" blueOffset="150" greenOffset="80"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 570" name="d2" centerPoint3DX="0.55" centerPoint3DY="-4.95">
+                  <matrix>
+                    <Matrix tx="-15.5" ty="-15.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" greenMultiplier="0" redOffset="30" blueOffset="150" greenOffset="80"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 570" name="d3" centerPoint3DX="0.55" centerPoint3DY="-4.95">
+                  <matrix>
+                    <Matrix tx="-15.5" ty="-15.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" greenMultiplier="0" redOffset="30" blueOffset="150" greenOffset="80"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#13ACD3">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 568" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

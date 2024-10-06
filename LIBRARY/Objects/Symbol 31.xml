@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 31" itemID="63c25e2b-00000ae1" linkageExportForAS="true" linkageClassName="pb2_re34_alt_fla.intro_specular_9" lastModified="1673918314">
+  <timeline>
+    <DOMTimeline name="Symbol 31">
+      <layers>
+        <DOMLayer name="Layer 1" color="#D3D352" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[MovieClip(root).register_specular(this);]]></script>
+              </Actionscript>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.04547119140625" d="0.04547119140625"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.501960784313725" ratio="0.137254901960784"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.101960784313725" ratio="0.52156862745098"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!523 -524S2[740 -307 740 0!740 0[740 307 523 523!523 523[307 740 0 740!0 740[-307 740 -524 523!-524 523[-740 307 -740 0!-740 0[-740 -307 -524 -524!-524 -524[-307 -740 0 -740!0 -740[307 -740 523 -524"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

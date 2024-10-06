@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Snowflake" itemID="63d3ae3a-00000bf7" linkageExportForAS="true" linkageClassName="flake" lastModified="1674817082">
+  <timeline>
+    <DOMTimeline name="Snowflake">
+      <layers>
+        <DOMLayer name="Layer 1" color="#BB6BB5" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1547" name="origin" centerPoint3DX="6" centerPoint3DY="6">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

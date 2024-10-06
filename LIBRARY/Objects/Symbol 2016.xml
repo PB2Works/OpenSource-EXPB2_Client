@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 2016" itemID="63c25e2b-00000dad" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2016">
+      <layers>
+        <DOMLayer name="Layer 1" color="#41FAF6" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.012664794921875" d="0.0174560546875"/>
+                        </matrix>
+                        <GradientEntry color="#626262" alpha="0.72156862745098" ratio="0.525490196078431"/>
+                        <GradientEntry color="#808080" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!154 -202[216 -118 216 0!216 0[216 118 154 202!154 202[90 286 0 286!0 286[-89 286 -152 202!-152 202[-216 118 -216 0!-216 0[-216 -118 -152 -202!-152 -202[-89 -286 0 -286!0 -286[90 -286 154 -202"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

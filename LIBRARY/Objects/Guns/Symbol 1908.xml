@@ -1,0 +1,249 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Guns/Symbol 1908" itemID="63c25e2b-00000d8e" linkageExportForAS="true" linkageClassName="darkstar_1_cs_ragequit" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1908">
+      <layers>
+        <DOMLayer name="Layer 1" color="#966FBF">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 600" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix ty="0.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#D439D1">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Reload indicator" centerPoint3DX="42.1" centerPoint3DY="34.1">
+                  <matrix>
+                    <Matrix a="0.257980346679688" d="0.257980346679688" tx="11.2" ty="3.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#5EBBB3">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Reload indicator" centerPoint3DX="40.85" centerPoint3DY="32.75">
+                  <matrix>
+                    <Matrix a="0.257980346679688" d="0.257980346679688" tx="9.95" ty="1.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Reload indicator" centerPoint3DX="42.1" centerPoint3DY="34.1">
+                  <matrix>
+                    <Matrix a="0.257980346679688" d="0.257980346679688" tx="11.2" ty="3.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#5BB8E5">
+          <frames>
+            <DOMFrame index="0" duration="60" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 532" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.257980346679688" d="0.257980346679688" tx="11.2" ty="3.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="179" blueOffset="224" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#D93D97">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Reload indicator" centerPoint3DX="39.8" centerPoint3DY="34.1">
+                  <matrix>
+                    <Matrix a="0.257980346679688" d="0.257980346679688" tx="8.9" ty="3.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Reload indicator" centerPoint3DX="40.85" centerPoint3DY="32.75">
+                  <matrix>
+                    <Matrix a="0.257980346679688" d="0.257980346679688" tx="9.95" ty="1.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Reload indicator" centerPoint3DX="42.1" centerPoint3DY="34.1">
+                  <matrix>
+                    <Matrix a="0.257980346679688" d="0.257980346679688" tx="11.2" ty="3.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#CDF8E6">
+          <frames>
+            <DOMFrame index="0" duration="44" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="44" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 532" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.257980346679688" d="0.257980346679688" tx="9.95" ty="1.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="179" blueOffset="224" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#F43CE5">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 532" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.257980346679688" d="0.257980346679688" tx="8.9" ty="3.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="179" blueOffset="224" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#1DB6FD">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 599" name="riflestatus" centerPoint3DX="21.9" centerPoint3DY="13.7">
+                  <matrix>
+                    <Matrix a="0.806167602539063" d="0.806167602539063" tx="10.6" ty="2.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#BF3EDE">
+          <frames>
+            <DOMFrame index="0" duration="64" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 1907" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#657EC5" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="64" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 596" name="ray" centerPoint3DX="84.45" centerPoint3DY="2.5">
+                  <matrix>
+                    <Matrix tx="34.45" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

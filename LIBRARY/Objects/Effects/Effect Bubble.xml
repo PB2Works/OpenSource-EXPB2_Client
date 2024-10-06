@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Effects/Effect Bubble" itemID="63d3abc5-00000bd9" linkageExportForAS="true" linkageClassName="eff_bubble" lastModified="1675691773">
+  <timeline>
+    <DOMTimeline name="Effect Bubble" currentFrame="29">
+      <layers>
+        <DOMLayer name="Layer 1" color="#18C8B2" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 1509" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[this.stop();
+this.visible = false;]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 1509" selected="true" symbolType="graphic" centerPoint3DX="0.05" centerPoint3DY="-0.05" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

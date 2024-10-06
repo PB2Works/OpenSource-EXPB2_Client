@@ -1,0 +1,193 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 1398" itemID="63c25e2b-00000c94" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1398">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.002716064453125" c="-0.0199737548828125" d="0" tx="59.15" ty="0.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.772549019607843" ratio="0.552941176470588"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.002716064453125" c="-0.003875732421875" d="0" tx="57.05" ty="0.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.772549019607843" ratio="0.552941176470588"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1133 -48|1137 -48!1137 -48|1183 -50!1183 -50|1412 -35!1412 -35[1510 -19 1510 1!1510 1[1510 22 1412 35!1412 35|1183 51!1183 51|1137 51!1137 51|1133 51"/>
+                    <Edge fillStyle1="2" edges="!1133 51[1112 48 1099 35!1099 35[1078 22 1078 1!1078 1[1078 -19 1099 -35!1099 -35[1112 -48 1133 -48"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1133 -48|1133 51"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.009185791015625" c="-0.0036773681640625" d="0" tx="54.8" ty="-0.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.772549019607843" ratio="0.552941176470588"/>
+                        <GradientEntry color="#FFCCCC" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.009185791015625" c="-0.0054473876953125" d="0" tx="55.05" ty="-0.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.772549019607843" ratio="0.552941176470588"/>
+                        <GradientEntry color="#FFCCCC" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1087 167[1068 158 1056 116!1056 116[1035 69 1035 -1!1035 -1[1035 -70 1056 -121!1056 -121[1068 -164 1087 -168"/>
+                    <Edge fillStyle1="2" edges="!1087 -168|1089 -168!1089 -168|1101 -172!1101 -172[1138 -172 1164 -121!1164 -121[1190 -70 1190 -1!1190 -1[1190 69 1164 116!1164 116[1138 167 1101 167!1101 167|1089 167!1089 167[1089 162 1087 167"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1087 167|1087 -168"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0056610107421875" c="-0.0025787353515625" d="0" tx="55.25" ty="0.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.772549019607843" ratio="0.552941176470588"/>
+                        <GradientEntry color="#FFCCCC" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0056610107421875" c="-0.0132904052734375" d="0" tx="56.65" ty="0.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.772549019607843" ratio="0.552941176470588"/>
+                        <GradientEntry color="#FFCCCC" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1099 104[1085 99 1077 73!1077 73[1062 44 1062 1!1062 1[1062 -42 1077 -73!1077 -73[1085 -99 1099 -102"/>
+                    <Edge fillStyle1="2" edges="!1099 -102|1102 -102!1102 -102|1133 -104!1133 -104[1223 -104 1285 -73!1285 -73[1350 -42 1350 1!1350 1[1350 44 1285 73!1285 73[1223 104 1133 104!1133 104|1102 104!1102 104|1099 104"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1099 104|1099 -102"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="-0.0052642822265625" b="0.00982666015625" c="-0.001495361328125" d="-0.0015411376953125" tx="54.45" ty="-0.45"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.772549019607843" ratio="0.552941176470588"/>
+                        <GradientEntry color="#FFCCCC" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="-0.0052642822265625" b="0.00982666015625" c="-0.0016021728515625" d="-0.0016632080078125" tx="54.45" ty="-0.45"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.772549019607843" ratio="0.552941176470588"/>
+                        <GradientEntry color="#FFCCCC" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1181 -191|1181 -190!1181 -190|1187 -192!1187 -192[1197 -181 1175 -119!1175 -119[1154 -58 1114 16!1114 16[1074 91 1039 134!1039 134[1003 181 993 170!993 170|990 167!990 167|990 166"/>
+                    <Edge fillStyle1="2" edges="!990 166[986 149 1005 98!1005 98[1023 39 1063 -36!1063 -36[1103 -110 1141 -155!1141 -155[1170 -195 1181 -191"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1181 -191|990 166"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0014801025390625" b="0.016754150390625" c="-0.0019683837890625" d="6.103515625e-05" tx="54.85" ty="-0.6"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.772549019607843" ratio="0.552941176470588"/>
+                        <GradientEntry color="#FFCCCC" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0014801025390625" b="0.016754150390625" c="-0.0018157958984375" d="6.103515625e-05" tx="54.85" ty="-0.6"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.772549019607843" ratio="0.552941176470588"/>
+                        <GradientEntry color="#FFCCCC" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1120 294[1108 278 1095 202!1095 202[1076 117 1065 -11!1065 -11[1054 -137 1057 -230!1057 -230[1056 -309 1066 -316"/>
+                    <Edge fillStyle1="2" edges="!1066 -316|1070 -324!1070 -324[1083 -324 1099 -232!1099 -232[1116 -139 1127 -13!1127 -13[1138 115 1137 200!1137 200[1137 294 1124 294!1124 294|1120 294"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1120 294|1066 -316"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

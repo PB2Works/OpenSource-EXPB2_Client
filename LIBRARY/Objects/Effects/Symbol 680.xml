@@ -1,0 +1,460 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Effects/Symbol 680" itemID="63c25e2b-00000b56" linkageExportForAS="true" linkageClassName="rail4" lastModified="1673918621">
+  <timeline>
+    <DOMTimeline name="Symbol 680">
+      <layers>
+        <DOMLayer name="Layer 1" color="#F1F5DA" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.6875" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.742172241210938" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.91015625" blueMultiplier="0.94921875" greenMultiplier="0.96875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.79388427734375" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8203125" blueMultiplier="0.8984375" greenMultiplier="0.94140625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.8426513671875" ty="0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.73828125" blueMultiplier="0.859375" greenMultiplier="0.91015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.888458251953125" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.66015625" blueMultiplier="0.80859375" greenMultiplier="0.890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.931304931640625" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.58984375" blueMultiplier="0.76953125" greenMultiplier="0.859375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.971176147460938" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.51953125" blueMultiplier="0.73046875" greenMultiplier="0.83984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.00814819335938" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375" blueMultiplier="0.69921875" greenMultiplier="0.8203125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.0421142578125" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3984375" blueMultiplier="0.671875" greenMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.07316589355469" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3515625" blueMultiplier="0.640625" greenMultiplier="0.78125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.10124206542969" ty="0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125" blueMultiplier="0.609375" greenMultiplier="0.76953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.1263427734375" ty="0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.26171875" blueMultiplier="0.58984375" greenMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.14852905273438" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.21875" blueMultiplier="0.5703125" greenMultiplier="0.73828125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.167724609375" ty="0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.19140625" blueMultiplier="0.55078125" greenMultiplier="0.73046875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.18399047851563" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.16015625" blueMultiplier="0.5390625" greenMultiplier="0.71875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.197265625" ty="0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625" blueMultiplier="0.51953125" greenMultiplier="0.7109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.20762634277344" ty="0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12890625" blueMultiplier="0.51171875" greenMultiplier="0.7109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.21501159667969" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.109375" blueMultiplier="0.5" greenMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.21945190429688" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.109375" blueMultiplier="0.5" greenMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 673" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.22093200683594" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1015625" blueMultiplier="0.5" greenMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[this.stop();
+this.visible = false;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#FC07C3">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.009033203125" c="-0.0048828125" d="0"/>
+                        </matrix>
+                        <GradientEntry color="#FF7C00" alpha="0" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0.407843137254902"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.980392156862745" ratio="0.447058823529412"/>
+                        <GradientEntry color="#FFFFFF" ratio="0.643137254901961"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0.690196078431373"/>
+                        <GradientEntry color="#FF7C00" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-600 -160|600 -160!600 -160|600 160!600 160|-600 160!-600 160|-600 -160"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="5" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="-2.34375, -0.234375" startPointB="-2.34375, -0.234375" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="0, -0.234375" anchorPointA="#2.58, -0.234375" controlPointB="0, -0.234375" anchorPointB="#2.58, -0.234375" isLine="true"/>
+                    <MorphCurves controlPointA="#2.58, 0" anchorPointA="#2.58, #0.3C" controlPointB="#2.58, 0" anchorPointB="#2.58, #0.3C" isLine="true"/>
+                    <MorphCurves controlPointA="0, #0.3C" anchorPointA="-2.34375, #0.3C" controlPointB="0, #0.3C" anchorPointB="-2.34375, #0.3C" isLine="true"/>
+                    <MorphCurves controlPointA="-2.34375, 0" anchorPointA="-2.34375, -0.234375" controlPointB="-2.34375, 0" anchorPointB="-2.34375, -0.234375" isLine="true"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="-2.34375, -0.234375" startPointB="-2.34375, -0.234375" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="0, -0.234375" anchorPointA="#2.58, -0.234375" controlPointB="0, -0.234375" anchorPointB="#2.58, -0.234375" isLine="true"/>
+                    <MorphCurves controlPointA="#2.58, 0" anchorPointA="#2.58, #0.3C" controlPointB="#2.58, 0" anchorPointB="#2.58, #0.3C" isLine="true"/>
+                    <MorphCurves controlPointA="0, #0.3C" anchorPointA="-2.34375, #0.3C" controlPointB="0, #0.3C" anchorPointB="-2.34375, #0.3C" isLine="true"/>
+                    <MorphCurves controlPointA="-2.34375, 0" anchorPointA="-2.34375, -0.234375" controlPointB="-2.34375, 0" anchorPointB="-2.34375, -0.234375" isLine="true"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.003387451171875" c="-0.0048828125" d="0"/>
+                        </matrix>
+                        <GradientEntry color="#FF7C00" alpha="0" ratio="0"/>
+                        <GradientEntry color="#FF7C00" alpha="0.2" ratio="0.407843137254902"/>
+                        <GradientEntry color="#FFF45D" ratio="0.533333333333333"/>
+                        <GradientEntry color="#FFF45D" ratio="0.556862745098039"/>
+                        <GradientEntry color="#FF7C00" alpha="0.2" ratio="0.690196078431373"/>
+                        <GradientEntry color="#FF7C00" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-600 -60|600 -60!600 -60|600 60!600 60|-600 60!-600 60|-600 -60"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.003387451171875" c="-0.0048828125" d="0"/>
+                        </matrix>
+                        <GradientEntry color="#FF7C00" alpha="0" ratio="0"/>
+                        <GradientEntry color="#FF7C00" alpha="0.00392156862745098" ratio="0.2"/>
+                        <GradientEntry color="#FF7F03" alpha="0.0274509803921569" ratio="0.466666666666667"/>
+                        <GradientEntry color="#FF7F03" alpha="0.0274509803921569" ratio="0.541176470588235"/>
+                        <GradientEntry color="#FF7C00" alpha="0.00392156862745098" ratio="0.854901960784314"/>
+                        <GradientEntry color="#FF7C00" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-600 -60|600 -60!600 -60|600 60!600 60|-600 60!-600 60|-600 -60"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.003387451171875" c="-0.0048828125" d="0"/>
+                        </matrix>
+                        <GradientEntry color="#FF7C00" alpha="0" ratio="0"/>
+                        <GradientEntry color="#FF7C00" alpha="0" ratio="0.192156862745098"/>
+                        <GradientEntry color="#FF7C00" alpha="0" ratio="0.462745098039216"/>
+                        <GradientEntry color="#FF7C00" alpha="0" ratio="0.537254901960784"/>
+                        <GradientEntry color="#FF7C00" alpha="0" ratio="0.862745098039216"/>
+                        <GradientEntry color="#FF7C00" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!600 -60|600 60!600 60|-600 60!-600 60|-600 -60!-600 -60|600 -60"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

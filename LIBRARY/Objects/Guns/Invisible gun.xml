@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Guns/Invisible gun" itemID="63d3ae63-00000c00" linkageExportForAS="true" linkageClassName="gun_invisgun" lastModified="1674817123">
+  <timeline>
+    <DOMTimeline name="Invisible gun">
+      <layers>
+        <DOMLayer name="Layer 1" color="#35DB79" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Effects/Effect Bubble" name="bubble_icon" centerPoint3DX="1.9" centerPoint3DY="1.9">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

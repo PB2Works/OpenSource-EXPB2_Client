@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 1358" itemID="6417dc58-000011f7" lastModified="1679253189">
+  <timeline>
+    <DOMTimeline name="Symbol 1358">
+      <layers>
+        <DOMLayer name="Layer_1" color="#FA8AB4" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#C57CE5" alpha="0.247058823529412"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!46 10[67 16 67 38!67 38[67 55 50 65!50 65|20 64!20 64[9 54 10 38!10 38[11 25 18 17!18 17[26 8 46 10"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Xin psi blade" itemID="641c3a3f-00003116" lastModified="1679571519">
+  <timeline>
+    <DOMTimeline name="Xin psi blade">
+      <layers>
+        <DOMLayer name="Layer_1" color="#A170F6" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 872" blendMode="layer" centerPoint3DX="-18.4" centerPoint3DY="31.95">
+                  <matrix>
+                    <Matrix a="0" b="-1.29583740234375" c="1.29583740234375" d="0" tx="-26.95" ty="10.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#F1FD99">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.008270263671875" b="0.019317626953125" c="-0.04107666015625" d="0.00933837890625" tx="-0.4" ty="-0.95"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.301960784313725" ratio="0.337254901960784"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!600 -252[729 -143 643 0!643 0[558 145 306 243!306 243[56 339 -214 331!-214 331[-484 323 -615 214!-615 214[-744 107 -658 -38!-658 -38[-574 -182 -324 -279!-324 -279[-72 -376 198 -368!198 -368[469 -360 600 -252"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

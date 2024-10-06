@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 2009" itemID="63c25e2b-00000daa" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2009">
+      <layers>
+        <DOMLayer name="Layer 1" color="#8A66E7" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#2F2F2F"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 -30|-21 -21!-21 -21|-30 0!-30 0|-21 21!-21 21|0 30!0 30[13 30 22 21!22 21[30 13 30 0!30 0[30 -13 22 -21!22 -21[13 -30 0 -30"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

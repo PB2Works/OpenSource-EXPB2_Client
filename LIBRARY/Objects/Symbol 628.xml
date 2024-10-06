@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 628" itemID="63c25e2b-00000b3d" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 628">
+      <layers>
+        <DOMLayer name="Layer 1" color="#3CDB70" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient spreadMethod="repeat">
+                        <matrix>
+                          <Matrix a="0.002349853515625" b="0.000640869140625" c="-0.0159912109375" d="0.0588531494140625" ty="50"/>
+                        </matrix>
+                        <GradientEntry color="#999999" ratio="0"/>
+                        <GradientEntry color="#474747" ratio="0.537254901960784"/>
+                        <GradientEntry color="#333333" ratio="0.584313725490196"/>
+                        <GradientEntry color="#111111" ratio="0.909803921568627"/>
+                        <GradientEntry color="#999999" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!40 0|40 2000!40 2000|-40 2000!-40 2000|-40 0"/>
+                    <Edge fillStyle1="1" edges="!-40 0[-36 -91 0 -91!0 -91[36 -91 40 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

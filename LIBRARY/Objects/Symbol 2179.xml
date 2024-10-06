@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 2179" itemID="63c25e2b-00000dfb" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2179">
+      <layers>
+        <DOMLayer name="Layer 1" color="#A5BE95" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt" width="197" height="16.3" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-98.5" ty="-8.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Level 10</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" lineHeight="15.35" size="14" bitmapSize="280" face="EuropeExt Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

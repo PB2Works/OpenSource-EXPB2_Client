@@ -1,0 +1,143 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Effects/Underwater explosion effect" itemID="63d3ae37-00000bf6" linkageExportForAS="true" linkageClassName="explosion_underwater" lastModified="1674817079">
+  <timeline>
+    <DOMTimeline name="Underwater explosion effect">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FAF078" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.049591064453125" d="0.049591064453125"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.266666666666667"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.352941176470588" ratio="0.658823529411765"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!567 -567[802 -332 802 0!802 0[802 332 567 567!567 567[332 802 0 802!0 802[-332 802 -567 567!-567 567[-802 332 -802 0!-802 0[-802 -332 -567 -567!-567 -567[-332 -802 0 -802!0 -802[332 -802 567 -567"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="9" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="-6.6171875, 0" startPointB="#FFFFF8.A9, 0" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="-6.6171875, -2.7421875" anchorPointA="-4.6796875, -4.6796875" controlPointB="#FFFFF8.A9, #FFFFFC.F5" anchorPointB="#FFFFFA.CF, -5.1953125"/>
+                    <MorphCurves controlPointA="-2.7421875, -6.6171875" anchorPointA="0, -6.6171875" controlPointB="-3.0390625, -7.34375" anchorPointB="#0.01, -7.34375"/>
+                    <MorphCurves controlPointA="#2.BE, -6.6171875" anchorPointA="#4.AD, -4.6796875" controlPointB="#3.0C, -7.34375" anchorPointB="#5.32, -5.1953125"/>
+                    <MorphCurves controlPointA="#6.9E, -2.7421875" anchorPointA="#6.9E, 0" controlPointB="#7.59, #FFFFFC.F5" anchorPointB="#7.59, 0"/>
+                    <MorphCurves controlPointA="#6.9E, #2.BE" anchorPointA="#4.AD, #4.AD" controlPointB="#7.59, #3.0B" anchorPointB="#5.32, #5.31"/>
+                    <MorphCurves controlPointA="#2.BE, #6.9E" anchorPointA="0, #6.9E" controlPointB="#3.0C, #7.58" anchorPointB="#0.01, #7.58"/>
+                    <MorphCurves controlPointA="-2.7421875, #6.9E" anchorPointA="-4.6796875, #4.AD" controlPointB="-3.0390625, #7.58" anchorPointB="#FFFFFA.CF, #5.31"/>
+                    <MorphCurves controlPointA="-6.6171875, #2.BE" anchorPointA="-6.6171875, 0" controlPointB="#FFFFF8.A9, #3.0B" anchorPointB="#FFFFF8.A9, 0"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="-6.6171875, 0" startPointB="#FFFFF8.A9, 0" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="-6.6171875, -2.7421875" anchorPointA="-4.6796875, -4.6796875" controlPointB="#FFFFF8.A9, #FFFFFC.F5" anchorPointB="#FFFFFA.CF, -5.1953125"/>
+                    <MorphCurves controlPointA="-2.7421875, -6.6171875" anchorPointA="0, -6.6171875" controlPointB="-3.0390625, -7.34375" anchorPointB="#0.01, -7.34375"/>
+                    <MorphCurves controlPointA="#2.BE, -6.6171875" anchorPointA="#4.AD, -4.6796875" controlPointB="#3.0C, -7.34375" anchorPointB="#5.32, -5.1953125"/>
+                    <MorphCurves controlPointA="#6.9E, -2.7421875" anchorPointA="#6.9E, 0" controlPointB="#7.59, #FFFFFC.F5" anchorPointB="#7.59, 0"/>
+                    <MorphCurves controlPointA="#6.9E, #2.BE" anchorPointA="#4.AD, #4.AD" controlPointB="#7.59, #3.0B" anchorPointB="#5.32, #5.31"/>
+                    <MorphCurves controlPointA="#2.BE, #6.9E" anchorPointA="0, #6.9E" controlPointB="#3.0C, #7.58" anchorPointB="#0.01, #7.58"/>
+                    <MorphCurves controlPointA="-2.7421875, #6.9E" anchorPointA="-4.6796875, #4.AD" controlPointB="-3.0390625, #7.58" anchorPointB="#FFFFFA.CF, #5.31"/>
+                    <MorphCurves controlPointA="-6.6171875, #2.BE" anchorPointA="-6.6171875, 0" controlPointB="#FFFFF8.A9, #3.0B" anchorPointB="#FFFFF8.A9, 0"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.104721069335938" d="0.104721069335938"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.843137254901961" ratio="0.286274509803922"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.0941176470588235" ratio="0.772549019607843"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1197 -1198[1694 -702 1694 0!1694 0[1694 702 1197 1197!1197 1197[702 1694 0 1694!0 1694[-702 1694 -1198 1197!-1198 1197[-1694 702 -1694 0!-1694 0[-1694 -702 -1198 -1198!-1198 -1198[-702 -1694 0 -1694!0 -1694[702 -1694 1197 -1198"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.116195678710938" d="0.116195678710938"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.0823529411764706" ratio="0.0313725490196078"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.00784313725490196" ratio="0.603921568627451"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1330 -1330[1881 -779 1881 0!1881 0[1881 779 1330 1329!1330 1329[780 1880 1 1880!1 1880[-778 1880 -1329 1329!-1329 1329[-1879 779 -1879 0!-1879 0[-1879 -779 -1329 -1330!-1329 -1330[-778 -1880 1 -1880!1 -1880[780 -1880 1330 -1330"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 1555" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[this.stop();
+this.visible = false;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

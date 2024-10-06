@@ -1,0 +1,412 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 573" itemID="63c25e2b-00000b13" lastModified="1693655045">
+  <timeline>
+    <DOMTimeline name="Symbol 573">
+      <layers>
+        <DOMLayer name="Layer 1" color="#CE457F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.7" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.898039215686275" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.7" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.8" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.7" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.694117647058824" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.7" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.6" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.7" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.498039215686275" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.7" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.4" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.7" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.298039215686275" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.7" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.2" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.7" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.0941176470588235" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.7" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.7" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.0941176470588235" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.8" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.2" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.8" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.298039215686275" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.8" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.4" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.8" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.498039215686275" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.8" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.6" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.8" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.694117647058824" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.8" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.8" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.8" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0.898039215686275" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="11" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="21.4" height="10.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.8" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.7" y="5.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="10.45" size="9" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

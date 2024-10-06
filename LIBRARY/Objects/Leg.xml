@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Leg" itemID="63dcdad6-000005fb" lastModified="1679287991">
+  <timeline>
+    <DOMTimeline name="Leg">
+      <layers>
+        <DOMLayer name="Layer 1" color="#D377BA" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Lower leg" name="middle" selected="true" centerPoint3DX="10.9" centerPoint3DY="29.45">
+                  <matrix>
+                    <Matrix a="0.990478515625" b="0.109359741210938" c="-0.109359741210938" d="0.990478515625" tx="-0.3" ty="14.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#AE855F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Upper leg" name="upper" centerPoint3DX="21.35" centerPoint3DY="20.15">
+                  <matrix>
+                    <Matrix a="0.98663330078125" b="0.148162841796875" c="-0.148162841796875" d="0.98663330078125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#B9F108">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Foot" name="lower" centerPoint3DX="9.2" centerPoint3DY="39.25">
+                  <matrix>
+                    <Matrix a="0.998199462890625" d="0.998199462890625" tx="-4.35" ty="29.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

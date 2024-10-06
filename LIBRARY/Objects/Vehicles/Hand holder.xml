@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Vehicles/Hand holder" itemID="63d519c6-000013da" linkageExportForAS="true" linkageClassName="veh_hh" lastModified="1674910150">
+  <timeline>
+    <DOMTimeline name="Hand holder">
+      <layers>
+        <DOMLayer name="Layer 1" color="#B0835D">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Vehicle statusbar" name="gui" centerPoint3DX="96.9" centerPoint3DY="-63.75">
+                  <matrix>
+                    <Matrix ty="-79.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#F58F75" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1526" name="origin" selected="true" blendMode="add" centerPoint3DX="18.85" centerPoint3DY="18.85">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

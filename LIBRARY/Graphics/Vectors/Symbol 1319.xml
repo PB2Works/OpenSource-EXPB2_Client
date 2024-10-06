@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 1319" itemID="63c25e2b-00000c59" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1319">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.00787353515625" c="0.00616455078125" d="0" tx="8.4" ty="-0.4"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FF8811" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.00787353515625" c="-0.00616455078125" d="0" tx="9.05" ty="-0.4"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FF8811" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!176 137|168 137!168 137[125 137 98 95!98 95[68 52 68 -8!68 -8[68 -67 98 -110!98 -110[125 -153 168 -153!168 -153|176 -152"/>
+                    <Edge fillStyle1="2" edges="!176 -152|183 -153!183 -153[224 -153 254 -110!254 -110[284 -67 284 -8!284 -8[284 52 254 95!254 95[224 137 183 137!183 137|176 137"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!176 -152|176 137"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0079803466796875" c="-0.0483856201171875" d="0" tx="12.05" ty="-0.55"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFAD33" alpha="0" ratio="0.537254901960784"/>
+                        <GradientEntry color="#000A5E" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!803 -115[1035 -72 1035 -11!1035 -11[1035 49 803 93!803 93|506 128!506 128|458 131!458 131|242 136!242 136|206 136!206 136|199 136!199 136|199 -158!199 -158|206 -158!206 -158|242 -158!242 -158|458 -153!458 -153|506 -150!506 -150|803 -115"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

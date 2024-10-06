@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 53" itemID="63c25e2b-00000aed" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 53">
+      <layers>
+        <DOMLayer name="Layer 1" color="#09E5A7" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="464.65" height="30.1" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-396.95" ty="-24.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SYNCHRONIZATION...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="329" lineSpacing="6" lineHeight="12.05" size="11" bitmapSize="220" face="EuropeExt Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;SKIP</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="381" lineSpacing="6" lineHeight="12.05" size="11" bitmapSize="220" face="EuropeExt Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

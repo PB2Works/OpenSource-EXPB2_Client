@@ -1,0 +1,70 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Effects/Text message effect" itemID="63d3adab-00000bee" linkageExportForAS="true" linkageClassName="eff_text_message" lastModified="1675509746">
+  <timeline>
+    <DOMTimeline name="Text message effect">
+      <layers>
+        <DOMLayer name="Layer 1" color="#D6C3F3" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="89" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="msgtext" selected="true" width="564.95" height="245.75" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-28" ty="-14.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" lineHeight="12.2" size="11" bitmapSize="220" face="ArialMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[this.stop();
+this.visible = false;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#76C3AF" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="89" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 550" name="strquad" selected="true" centerPoint3DY="-7.5">
+                  <matrix>
+                    <Matrix a="1.351318359375" tx="-50" ty="-15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#E0368C" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="89" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.8"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 100S2|-80 0!-80 0|80 0!80 0|0 100"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

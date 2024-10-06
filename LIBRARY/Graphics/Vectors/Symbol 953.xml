@@ -1,0 +1,93 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 953" itemID="63c25e2b-00000baf" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 953">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0338287353515625" d="0.03564453125" tx="-18.5" ty="12.45"/>
+                        </matrix>
+                        <GradientEntry color="#1D2B38" ratio="0"/>
+                        <GradientEntry color="#27363F" ratio="0.658823529411765"/>
+                        <GradientEntry color="#4D6277" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#0D1215"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!131 270[163 66 107 -47!107 -47[93 41 52 88!52 88[11 135 -26 115!-26 115[-63 94 -117 6!-117 6[-105 144 -59 258!-59 258|34 239!34 239|131 270"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.004119873046875" d="0.011871337890625" tx="-0.2" ty="4.6"/>
+                        </matrix>
+                        <GradientEntry color="#0D0D0D" ratio="0"/>
+                        <GradientEntry color="#1A1A1A" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0422821044921875" d="0.0445556640625" tx="-24.5" ty="18.6"/>
+                        </matrix>
+                        <GradientEntry color="#1D2B38" ratio="0"/>
+                        <GradientEntry color="#27363F" ratio="0.658823529411765"/>
+                        <GradientEntry color="#4D6277" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#070A0A"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!67 -42[70 -7 37 57!37 57[19 88 -2 85!-2 85[-23 81 -40 44!-40 44[-68 -22 -48 -62!-48 -62[-34 -93 15 -86!15 -86[63 -78 67 -42"/>
+                    <Edge fillStyle1="1" strokeStyle="2" edges="!25 286[-29 278 -49 230!-49 230[-53 192 -62 161!-62 161[-93 66 -93 -15!-93 -15|-91 -35!-91 -35[-88 -56 -79 -70!-79 -70[-60 -98 -14 -102!-14 -102[63 -108 87 -32!87 -32[109 41 93 230!93 230[79 294 25 286"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

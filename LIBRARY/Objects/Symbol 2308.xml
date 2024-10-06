@@ -1,0 +1,364 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 2308" itemID="63c25e2b-00000e29" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2308">
+      <layers>
+        <DOMLayer name="Layer 1" color="#DB8A57">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2307" name="finalbtn" centerPoint3DX="393.85" centerPoint3DY="2307.7">
+                  <matrix>
+                    <Matrix tx="270.4" ty="2297.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#D854A0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 2230" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#DBEB90">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="782.95" height="247.45" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="2104.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>We really want to thank all our fans who love the series of our games, and to everyone who played this&#xD;&#xA;game once, and will forget soon:) We hope you enjoyed it!&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Everything we do would be impossible without our partner:&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Coolbuddy.com</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="30.7" rightMargin="5" size="28" bitmapSize="560" face="EuropeExt Regular" fillColor="#FFFFFF" target="_blank" url="http://www.Coolbuddy.com"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="30.7" rightMargin="5" size="28" bitmapSize="560" face="EuropeExt Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> &#xD;&#xA;&#xD;&#xA;Latest version of game, game news, new maps and multiplayer always available at official website:&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>www.PlazmaBurst2.com</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="30.7" rightMargin="5" size="28" bitmapSize="560" face="EuropeExt Regular" fillColor="#FFFFFF" target="_blank" url="http://www.plazmaburst2.com"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FAF055">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="396.7" height="478.2" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="91.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Director &amp; Development:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="222" lineSpacing="28.2" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;Concept Art:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="302" lineSpacing="28.2" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;Music:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="346" lineSpacing="28.2" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;Sound FX:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="324" lineSpacing="28.2" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;Community art contribution:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="193" lineSpacing="28.2" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;used in Custom Maps &amp; Multiplayer </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="150" lineSpacing="28.2" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;Community art adaptation:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="208" lineSpacing="28.2" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;Voice acting: </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="295" lineSpacing="28.2" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;Special thanks:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="280" lineSpacing="28.2" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;Creative ideas &amp; Story line:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="186" lineSpacing="28.2" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;Text verification:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="259" lineSpacing="28.2" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;Level design:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="295" lineSpacing="28.2" lineHeight="14" bitmapSize="240" face="DejaVuSansMono" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#B57B5E" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="384" height="1790.6" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="399.95" ty="91.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Eric Gurt&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>www.gevanni.com</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666" target="_blank" url="http://www.gevanni.com"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Scott Jones&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>the-danzor.deviantart.com</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666" target="_blank" url="http://the-danzor.deviantart.com"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xA;&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Talros&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>twitter.com/Talros</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666" target="_blank" url="http://www.twitter.com/Talros"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xA;&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>burncomics&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>www.burncomics.com</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666" target="_blank" url="http://www.burncomics.com"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xA;&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>slipgatecentral&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>slipgatecentral.livejournal.com</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666" target="_blank" url="http://slipgatecentral.livejournal.com"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xA;&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Diva Lustmond&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>www.lustmond.com</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666" target="_blank" url="http://www.lustmond.com"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xA;&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>GBH&#xD;&#xA;&#xD;&#xA;_tresk_&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;NPhonix &amp; Logical - Antigravity&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>www.nphonix.ru</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666" target="_blank" url="http://www.nphonix.ru"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xA;&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Katharsys - Erges&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>facebook.com/KatharsysDNB</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666" target="_blank" url="http://www.facebook.com/KatharsysDNB"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Eric Gurt&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>www.gevanni.com</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666" target="_blank" url="http://www.gevanni.com"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xA;&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Ruslan Chertenkov&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>www.alinttis.3dn.ru</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666" target="_blank" url="http://www.alinttis.3dn.ru"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0.1" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono-Bold" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

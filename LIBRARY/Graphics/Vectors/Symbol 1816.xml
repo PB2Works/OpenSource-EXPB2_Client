@@ -1,0 +1,74 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 1816" itemID="63c25e2b-00000d5c" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1816">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.01202392578125" c="-0.0316619873046875" d="0" tx="-1" ty="-0.2"/>
+                        </matrix>
+                        <GradientEntry alpha="0.501960784313725" ratio="0"/>
+                        <GradientEntry alpha="0" ratio="0.407843137254902"/>
+                        <GradientEntry alpha="0" ratio="0.596078431372549"/>
+                        <GradientEntry alpha="0.501960784313725" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!190 -205|190 98!190 98|190 197!190 197|-186 197!-186 197|-186 98!-186 98|-186 -205!-186 -205|190 -205"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.011474609375" d="0.0130615234375" tx="0.1"/>
+                        </matrix>
+                        <GradientEntry color="#58A7DA" ratio="0"/>
+                        <GradientEntry color="#99B8FF" ratio="0.235294117647059"/>
+                        <GradientEntry color="#B4DAFE" ratio="0.52156862745098"/>
+                        <GradientEntry color="#99B8FF" ratio="0.803921568627451"/>
+                        <GradientEntry color="#58A7DA" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#003399"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-186 -136|-162 -146!-162 -146|-142 -214!-142 -214|-120 -214!-120 -214|-119 -214!-119 -214|-92 -214!-92 -214|-66 -214!-66 -214|-65 -214!-65 -214|-45 -141!-45 -141|-20 -130!-20 -130|2 -130!2 -130|24 -130!24 -130|49 -141!49 -141|69 -214
+!69 -214|96 -214!96 -214|123 -214!123 -214|124 -214!124 -214|146 -214!146 -214|166 -146!166 -146|190 -136!190 136|166 146!166 146|146 214!146 214|124 214!124 214|123 214!123 214|96 214!96 214|69 214!69 214|49 141!49 141|24 130!24 130
+|2 130!2 130|-20 130!-20 130|-45 141!-45 141|-65 214!-65 214|-92 214!-92 214|-119 214!-119 214|-120 214!-120 214|-142 214!-142 214|-162 146!-162 146|-186 136"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-186 136|-186 33!-186 33|-186 -136!190 -136|190 33!190 33|190 136"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

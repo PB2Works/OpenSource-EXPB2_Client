@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 2027" itemID="63c25e2b-00000db2" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2027">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor alpha="0.501960784313725"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-10 -82|-10 -66!-10 -66|0 -47!0 -47|6 -39!6 -39|19 -25!19 -25|19 -12!19 -12|25 -10!25 -10|32 4!32 4|51 68!51 68|51 76!51 76|45 93!45 8|111 -56!111 -56|114 -56!114 -56|130 -72!130 -72|134 -76!134 -76|161 -97!161 -97|161 -100!161 -100
+|166 -104!166 -104|171 -109!6 -39|-18 -15!-18 -15|-18 -12!-18 -12|-23 -12!-23 -12|-31 53!-31 53|-31 75!-31 75|-39 100!-173 -111|-124 -50!-124 -50|-124 -15"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

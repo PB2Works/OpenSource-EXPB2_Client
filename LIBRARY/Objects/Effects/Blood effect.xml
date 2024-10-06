@@ -1,0 +1,95 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Effects/Blood effect" itemID="63d3ac75-00000be6" linkageExportForAS="true" linkageClassName="eff_blood" lastModified="1675697135">
+  <timeline>
+    <DOMTimeline name="Blood effect" currentFrame="10">
+      <layers>
+        <DOMLayer name="Layer 1" color="#6181FD" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="89" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2016" name="inner_blood_cloud" centerPoint3DX="10.75" centerPoint3DY="14.3">
+                  <matrix>
+                    <Matrix tx="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[         this.stop();
+         this.visible = false;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#CD9436">
+          <frames>
+            <DOMFrame index="0" duration="89" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2014" name="inner_blood_detail1" centerPoint3DX="5.35" centerPoint3DY="5.25">
+                  <matrix>
+                    <Matrix a="0.9305419921875" d="0.9305419921875" tx="-0.05" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#EA3CEC">
+          <frames>
+            <DOMFrame index="0" duration="89" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#2666C5" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!42 -13|42 -9!42 -9|41 -2!41 -2[39 15 26 29!26 29|24 31!24 31[9 44 -9 44!-9 44|-17 43!-17 43[-34 41 -47 30!-47 30|-50 27!-50 27|-51 24!-51 24[-64 9 -63 -9!-63 -9|-63 -12!-63 -12[-62 -31 -50 -44!-50 -44[-26 -60 -12 -61!-12 -61|-4 -61!-4
+ -61|14 -55!14 -55|26 -45!26 -45|32 -38!32 -38|41 -17!41 -17|42 -13"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#AB757F">
+          <frames>
+            <DOMFrame index="0" duration="89" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2011" name="inner_blood_detail2" centerPoint3DX="5.05" centerPoint3DY="5">
+                  <matrix>
+                    <Matrix ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#87D143">
+          <frames>
+            <DOMFrame index="0" duration="89" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2009" name="inner_blood_detail3" centerPoint3DX="1.5" centerPoint3DY="1.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

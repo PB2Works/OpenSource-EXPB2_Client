@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 24" itemID="63c25e2b-00000adf" linkageExportForAS="true" linkageClassName="pb2_re34_alt_fla.intro_glow_6" lastModified="1673918273">
+  <timeline>
+    <DOMTimeline name="Symbol 24">
+      <layers>
+        <DOMLayer name="Layer 1" color="#7F42FB" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[MovieClip(root).register_glow(this);]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 23" selected="true" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

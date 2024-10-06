@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/Symbol 2629" itemID="63c25e2b-00000e6f" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2629">
+      <layers>
+        <DOMLayer name="Layer 1" color="#C3A7C6">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt" fontRenderingMode="customThicknessSharpness" width="780.95" height="12.05" antiAliasSharpness="200" antiAliasThickness="-200" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="13" ty="-16"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Text Message</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="12.05" size="10" bitmapSize="200" face="Tahoma Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#2FC6EE" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.30517578125" d="0.0115966796875" tx="250" ty="-9.5"/>
+                        </matrix>
+                        <GradientEntry alpha="0.701960784313725" ratio="0"/>
+                        <GradientEntry color="#010101" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!10000 -380|10000 0!10000 0|0 0!0 0|0 -380!0 -380|10000 -380"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

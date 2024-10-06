@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 1330" itemID="63c25e2b-00000c63" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1330">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F1A8FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#8C3F8B"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!44 -49|20 -29!20 -29|-23 -29!-23 -29|-45 -50!-45 -50|-23 -71!-23 -71|21 -71!21 -71|44 -49!158 1|158 57!158 57[128 83 98 57!98 57|98 -5!98 -5|118 -5"/>
+                    <Edge fillStyle1="1" edges="!118 -5|118 1!118 1|158 1"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-158 1|-158 57!-158 57[-123 77 -98 57!-98 57|-98 -6!-98 -6|-117 -6"/>
+                    <Edge fillStyle0="1" edges="!-117 -6|-117 0!-117 0|-158 1"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

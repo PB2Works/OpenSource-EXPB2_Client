@@ -1,0 +1,1194 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Effects/Spark effect" itemID="63d3ac98-00000bea" linkageExportForAS="true" linkageClassName="eff_iskra" lastModified="1675697658">
+  <timeline>
+    <DOMTimeline name="Spark effect">
+      <layers>
+        <DOMLayer name="Layer 1" color="#C5AFA2" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="11" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#FFFFFF.9F, #0.23" startPointB="#FFFFFE.E7, #1.11" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="#FFFFFF.A3, #0.18" anchorPointA="#FFFFFF.A9, #0.0D" controlPointB="#FFFFFE.E5, #1.0C" anchorPointB="#FFFFFF.0F, #0.DE"/>
+                    <MorphCurves controlPointA="#FFFFFF.C1, #FFFFFF.E9" anchorPointA="#FFFFFF.D3, #FFFFFF.D7" controlPointB="#FFFFFF.61, #0.89" anchorPointB="#FFFFFF.8D, #0.5D"/>
+                    <MorphCurves controlPointA="-0.0859375, -0.25" anchorPointA="#0.02, #FFFFFF.B1" controlPointB="#FFFFFF.C3, #0.26" anchorPointB="#FFFFFF.F9, -0.0625"/>
+                    <MorphCurves controlPointA="#0.11, -0.34375" anchorPointA="#0.2, -0.3671875" controlPointB="#0.19, #FFFFFF.D1" anchorPointB="#0.39, -0.3046875"/>
+                    <MorphCurves controlPointA="#0.3C, -0.359375" anchorPointA="#0.57, #FFFFFF.A5" controlPointB="#0.6F, #FFFFFF.7F" anchorPointB="#0.A4, -0.703125" isLine="true"/>
+                    <MorphCurves controlPointA="#0.5C, -0.3359375" anchorPointA="#0.5E, -0.3046875" controlPointB="#0.B2, #FFFFFF.3F" anchorPointB="0.75, -0.8046875"/>
+                    <MorphCurves controlPointA="#0.61, #FFFFFF.BB" anchorPointA="#0.5F, -0.2265625" controlPointB="#0.D2, -0.8671875" anchorPointB="#0.E, #FFFFFF.15"/>
+                    <MorphCurves controlPointA="#0.5E, -0.1875" anchorPointA="#0.5A, -0.140625" controlPointB="#1.02, #FFFFFE.F7" anchorPointB="#1.0E, #FFFFFE.EF"/>
+                    <MorphCurves controlPointA="#0.54, #FFFFFF.E9" anchorPointA="#0.4F, -0.0546875" controlPointB="#1.15, -1.0546875" anchorPointB="#0.F7, #FFFFFF.15"/>
+                    <MorphCurves controlPointA="#0.49, #FFFFFF.FD" anchorPointA="#0.42, #0.07" controlPointB="#0.E4, #FFFFFF.29" anchorPointB="#0.C7, -0.71875"/>
+                    <MorphCurves controlPointA="#0.36, #0.18" anchorPointA="#0.25, #0.29" controlPointB="#0.9B, -0.546875" anchorPointB="#0.6F, -0.375"/>
+                    <MorphCurves controlPointA="#0.0E, 0.25" anchorPointA="-0.0390625, #0.4E" controlPointB="#0.39, -0.15625" anchorPointB="#0.02, #0.0E"/>
+                    <MorphCurves controlPointA="-0.09375, #0.57" anchorPointA="#FFFFFF.D9, #0.5D" controlPointB="-0.1015625, #0.29" anchorPointB="-0.2109375, #0.44"/>
+                    <MorphCurves controlPointA="#FFFFFF.BD, #0.5C" anchorPointA="#FFFFFF.A1, #0.5B" controlPointB="-0.421875, #0.79" anchorPointB="#FFFFFF.5D, #0.AD" isLine="true"/>
+                    <MorphCurves controlPointA="-0.390625, #0.56" anchorPointA="-0.3984375, #0.4E" controlPointB="#FFFFFF.4D, #0.BC" anchorPointB="#FFFFFF.3D, #0.CB"/>
+                    <MorphCurves controlPointA="#FFFFFF.99, #0.4A" anchorPointA="#FFFFFF.99, #0.44" controlPointB="-0.8046875, #0.D5" anchorPointB="#FFFFFF.29, #0.DE"/>
+                    <MorphCurves controlPointA="#FFFFFF.99, #0.36" anchorPointA="#FFFFFF.9F, #0.23" controlPointB="-1.0859375, #1.17" anchorPointB="#FFFFFE.E7, #1.11"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="#FFFFFF.9F, #0.23" startPointB="#FFFFFE.E7, #1.11" strokeIndex1="0" strokeIndex2="0" fillIndex1="0">
+                    <MorphCurves controlPointA="#FFFFFF.A3, #0.18" anchorPointA="#FFFFFF.A9, #0.0D" controlPointB="#FFFFFE.E5, #1.0C" anchorPointB="#FFFFFF.0F, #0.DE"/>
+                    <MorphCurves controlPointA="#FFFFFF.C1, #FFFFFF.E9" anchorPointA="#FFFFFF.D3, #FFFFFF.D7" controlPointB="#FFFFFF.61, #0.89" anchorPointB="#FFFFFF.8D, #0.5D"/>
+                    <MorphCurves controlPointA="-0.0859375, -0.25" anchorPointA="#0.02, #FFFFFF.B1" controlPointB="#FFFFFF.C3, #0.26" anchorPointB="#FFFFFF.F9, -0.0625"/>
+                    <MorphCurves controlPointA="#0.11, -0.34375" anchorPointA="#0.2, -0.3671875" controlPointB="#0.19, #FFFFFF.D1" anchorPointB="#0.39, -0.3046875"/>
+                    <MorphCurves controlPointA="#0.3C, -0.359375" anchorPointA="#0.57, #FFFFFF.A5" controlPointB="#0.6F, #FFFFFF.7F" anchorPointB="#0.A4, -0.703125" isLine="true"/>
+                    <MorphCurves controlPointA="#0.5C, -0.3359375" anchorPointA="#0.5E, -0.3046875" controlPointB="#0.B2, #FFFFFF.3F" anchorPointB="0.75, -0.8046875"/>
+                    <MorphCurves controlPointA="#0.61, #FFFFFF.BB" anchorPointA="#0.5F, -0.2265625" controlPointB="#0.D2, -0.8671875" anchorPointB="#0.E, #FFFFFF.15"/>
+                    <MorphCurves controlPointA="#0.5E, -0.1875" anchorPointA="#0.5A, -0.140625" controlPointB="#1.02, #FFFFFE.F7" anchorPointB="#1.0E, #FFFFFE.EF"/>
+                    <MorphCurves controlPointA="#0.54, #FFFFFF.E9" anchorPointA="#0.4F, -0.0546875" controlPointB="#1.15, -1.0546875" anchorPointB="#0.F7, #FFFFFF.15"/>
+                    <MorphCurves controlPointA="#0.49, #FFFFFF.FD" anchorPointA="#0.42, #0.07" controlPointB="#0.E4, #FFFFFF.29" anchorPointB="#0.C7, -0.71875"/>
+                    <MorphCurves controlPointA="#0.36, #0.18" anchorPointA="#0.25, #0.29" controlPointB="#0.9B, -0.546875" anchorPointB="#0.6F, -0.375"/>
+                    <MorphCurves controlPointA="#0.0E, 0.25" anchorPointA="-0.0390625, #0.4E" controlPointB="#0.39, -0.15625" anchorPointB="#0.02, #0.0E"/>
+                    <MorphCurves controlPointA="-0.09375, #0.57" anchorPointA="#FFFFFF.D9, #0.5D" controlPointB="-0.1015625, #0.29" anchorPointB="-0.2109375, #0.44"/>
+                    <MorphCurves controlPointA="#FFFFFF.BD, #0.5C" anchorPointA="#FFFFFF.A1, #0.5B" controlPointB="-0.421875, #0.79" anchorPointB="#FFFFFF.5D, #0.AD" isLine="true"/>
+                    <MorphCurves controlPointA="-0.390625, #0.56" anchorPointA="-0.3984375, #0.4E" controlPointB="#FFFFFF.4D, #0.BC" anchorPointB="#FFFFFF.3D, #0.CB"/>
+                    <MorphCurves controlPointA="#FFFFFF.99, #0.4A" anchorPointA="#FFFFFF.99, #0.44" controlPointB="-0.8046875, #0.D5" anchorPointB="#FFFFFF.29, #0.DE"/>
+                    <MorphCurves controlPointA="#FFFFFF.99, #0.36" anchorPointA="#FFFFFF.9F, #0.23" controlPointB="-1.0859375, #1.17" anchorPointB="#FFFFFE.E7, #1.11"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.005401611328125" b="-0.005401611328125" c="0.002410888671875" d="0.002410888671875" tx="-0.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.301960784313725"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!90 -36[75 3 37 41!37 41[0 78 -39 93!-39 93|-95 91!-95 91[-111 75 -97 35!-97 35[-82 -4 -45 -41!-45 -41[-7 -79 32 -94!32 -94|87 -91!87 -91[103 -75 90 -36"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-281 273[#FFFEE4.D4 #10B.EF -241.5 222!-241.5 222[#FFFF1E.A1 #CC.7A -203 181!-203 181[-105 82 -7 -16!-7 -16|192 -206!192 -206[#D1.CC #FFFF21.85 224 -235!224 -235[#111.A9 #FFFEE8.8A 276 -274!276 -274[#115.43 #FFFEF2.69 246.5 -235!246.5
+ -235[#E4.39 #FFFF29.4D 199 -184!199 -184[101 -84 2 14!2 14|-195 203!-195 203[#FFFF31.F4 #D5.3F -215.5 222!-215.5 222[#FFFEE9.9A #117.12 -281 273"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0174713134765625" b="-0.0174713134765625" c="0.0005035400390625" d="0.0005035400390625" tx="-0.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!291 -295[295 -291 212 -204!212 -204|4 8!4 8|-206 214!-206 214[-295 299 -299 295!-299 295[-303 291 -218 202!-218 202|-12 -8!-12 -8|200 -216!200 -216[287 -299 291 -295"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#BF7BDD" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="17" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#FFFFFF.7B, 0" startPointB="#FFFFFE.6B, 0" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="#FFFFFF.7B, -0.0859375" anchorPointA="#FFFFFF.A1, #FFFFFF.D7" controlPointB="#FFFFFE.A5, #FFFFFF.FB" anchorPointB="-1.1171875, -0.0390625"/>
+                    <MorphCurves controlPointA="#FFFFFF.C7, -0.2265625" anchorPointA="-0.015625, -0.2265625" controlPointB="#FFFFFF.6F, #FFFFFF.F3" anchorPointB="#FFFFFF.FD, #FFFFFF.F1"/>
+                    <MorphCurves controlPointA="#0.31, -0.2265625" anchorPointA="#0.57, #FFFFFF.D7" controlPointB="#0.8C, #FFFFFF.F3" anchorPointB="#1.1B, -0.0390625"/>
+                    <MorphCurves controlPointA="#0.7D, -0.0859375" anchorPointA="#0.7D, 0" controlPointB="#1.56, #FFFFFF.FB" anchorPointB="#1.8F, 0"/>
+                    <MorphCurves controlPointA="#0.7D, #0.16" anchorPointA="#0.57, #0.29" controlPointB="#1.56, #0.05" anchorPointB="#1.1B, #0.0A"/>
+                    <MorphCurves controlPointA="#0.31, #0.3A" anchorPointA="-0.015625, #0.3A" controlPointB="#0.8D, #0.0D" anchorPointB="#FFFFFF.FD, #0.0F"/>
+                    <MorphCurves controlPointA="#FFFFFF.C7, #0.3A" anchorPointA="#FFFFFF.A1, #0.29" controlPointB="#FFFFFF.6F, #0.0D" anchorPointB="-1.1171875, #0.0A"/>
+                    <MorphCurves controlPointA="#FFFFFF.7B, #0.16" anchorPointA="#FFFFFF.7B, 0" controlPointB="-1.3515625, #0.05" anchorPointB="#FFFFFE.6B, 0"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="#FFFFFF.7B, 0" startPointB="#FFFFFE.6B, 0" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="#FFFFFF.7B, -0.0859375" anchorPointA="#FFFFFF.A1, #FFFFFF.D7" controlPointB="#FFFFFE.A5, #FFFFFF.FB" anchorPointB="-1.1171875, -0.0390625"/>
+                    <MorphCurves controlPointA="#FFFFFF.C7, -0.2265625" anchorPointA="-0.015625, -0.2265625" controlPointB="#FFFFFF.6F, #FFFFFF.F3" anchorPointB="#FFFFFF.FD, #FFFFFF.F1"/>
+                    <MorphCurves controlPointA="#0.31, -0.2265625" anchorPointA="#0.57, #FFFFFF.D7" controlPointB="#0.8C, #FFFFFF.F3" anchorPointB="#1.1B, -0.0390625"/>
+                    <MorphCurves controlPointA="#0.7D, -0.0859375" anchorPointA="#0.7D, 0" controlPointB="#1.56, #FFFFFF.FB" anchorPointB="#1.8F, 0"/>
+                    <MorphCurves controlPointA="#0.7D, #0.16" anchorPointA="#0.57, #0.29" controlPointB="#1.56, #0.05" anchorPointB="#1.1B, #0.0A"/>
+                    <MorphCurves controlPointA="#0.31, #0.3A" anchorPointA="-0.015625, #0.3A" controlPointB="#0.8D, #0.0D" anchorPointB="#FFFFFF.FD, #0.0F"/>
+                    <MorphCurves controlPointA="#FFFFFF.C7, #0.3A" anchorPointA="#FFFFFF.A1, #0.29" controlPointB="#FFFFFF.6F, #0.0D" anchorPointB="-1.1171875, #0.0A"/>
+                    <MorphCurves controlPointA="#FFFFFF.7B, #0.16" anchorPointA="#FFFFFF.7B, 0" controlPointB="-1.3515625, #0.05" anchorPointB="#FFFFFE.6B, 0"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0076446533203125" d="0.0034027099609375" tx="-0.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.301960784313725"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-4 -58[49 -58 87 -41!87 -41[125 -22 125 0!125 0[125 22 87 41!87 41[49 58 -4 58!-4 58[-57 58 -95 41!-95 41[-133 22 -133 0!-133 0[-133 -22 -95 -41!-95 -41[-57 -58 -4 -58"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0237579345703125" d="0.0008697509765625" tx="-0.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.0549019607843137" ratio="0.0196078431372549"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-3 -15[140 -13 283 -10!283 -10[342 -5 399 0!399 0[342 5 283 10!283 10[141 13 -3 15!-3 15[-145 13 -286 10!-286 10[-346 5 -405 0!-405 0[-347 -5 -286 -10!-286 -10[-145 -13 -3 -15"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0247039794921875" d="0.0007171630859375" tx="-0.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-4 -12|293 -8!293 -8|413 0!413 0|293 8!293 8|-4 12!-4 12|-298 8!-298 8|-421 0!-421 0|-298 -8!-298 -8|-4 -12"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#F3E4D8" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0092926025390625" d="0.0092926025390625" tx="-0.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.301960784313725"/>
+                        <GradientEntry color="#D5DDFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-4 -157S2[61 -157 107 -111!107 -111[153 -65 153 0!153 0[153 65 107 112!107 112[61 157 -4 157!-4 157[-68 157 -114 112!-114 112[-161 65 -161 0!-161 0[-161 -65 -114 -111!-114 -111[-68 -157 -4 -157"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="17" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="-0.9921875, 0" startPointB="#FFFFFF.3F, 0" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="-0.9921875, -0.40625" anchorPointA="-0.703125, -0.6875" controlPointB="#FFFFFF.3F, -0.3046875" anchorPointB="-0.5390625, #FFFFFF.7B"/>
+                    <MorphCurves controlPointA="#FFFFFF.95, -0.9765625" anchorPointA="-0.015625, -0.9765625" controlPointB="#FFFFFF.AD, -0.734375" anchorPointB="#FFFFFF.FB, -0.734375"/>
+                    <MorphCurves controlPointA="#0.62, -0.9765625" anchorPointA="#0.AC, -0.6875" controlPointB="#0.48, -0.734375" anchorPointB="0.5, #FFFFFF.7B"/>
+                    <MorphCurves controlPointA="#0.F6, -0.40625" anchorPointA="#0.F6, 0" controlPointB="#0.B7, -0.3046875" anchorPointB="#0.B7, 0"/>
+                    <MorphCurves controlPointA="#0.F6, #0.68" anchorPointA="#0.AC, #0.B2" controlPointB="#0.B7, #0.4E" anchorPointB="0.5, #0.85"/>
+                    <MorphCurves controlPointA="#0.62, #0.FA" anchorPointA="-0.015625, #0.FA" controlPointB="#0.48, #0.BC" anchorPointB="#FFFFFF.FB, #0.BC"/>
+                    <MorphCurves controlPointA="#FFFFFF.95, #0.FA" anchorPointA="-0.703125, #0.B2" controlPointB="#FFFFFF.AD, #0.BC" anchorPointB="-0.5390625, #0.85"/>
+                    <MorphCurves controlPointA="-0.9921875, #0.68" anchorPointA="-0.9921875, 0" controlPointB="#FFFFFF.3F, #0.4E" anchorPointB="#FFFFFF.3F, 0"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="-0.9921875, 0" startPointB="#FFFFFF.3F, 0" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="-0.9921875, -0.40625" anchorPointA="-0.703125, -0.6875" controlPointB="#FFFFFF.3F, -0.3046875" anchorPointB="-0.5390625, #FFFFFF.7B"/>
+                    <MorphCurves controlPointA="#FFFFFF.95, -0.9765625" anchorPointA="-0.015625, -0.9765625" controlPointB="#FFFFFF.AD, -0.734375" anchorPointB="#FFFFFF.FB, -0.734375"/>
+                    <MorphCurves controlPointA="#0.62, -0.9765625" anchorPointA="#0.AC, -0.6875" controlPointB="#0.48, -0.734375" anchorPointB="0.5, #FFFFFF.7B"/>
+                    <MorphCurves controlPointA="#0.F6, -0.40625" anchorPointA="#0.F6, 0" controlPointB="#0.B7, -0.3046875" anchorPointB="#0.B7, 0"/>
+                    <MorphCurves controlPointA="#0.F6, #0.68" anchorPointA="#0.AC, #0.B2" controlPointB="#0.B7, #0.4E" anchorPointB="0.5, #0.85"/>
+                    <MorphCurves controlPointA="#0.62, #0.FA" anchorPointA="-0.015625, #0.FA" controlPointB="#0.48, #0.BC" anchorPointB="#FFFFFF.FB, #0.BC"/>
+                    <MorphCurves controlPointA="#FFFFFF.95, #0.FA" anchorPointA="-0.703125, #0.B2" controlPointB="#FFFFFF.AD, #0.BC" anchorPointB="-0.5390625, #0.85"/>
+                    <MorphCurves controlPointA="-0.9921875, #0.68" anchorPointA="-0.9921875, 0" controlPointB="#FFFFFF.3F, #0.4E" anchorPointB="#FFFFFF.3F, 0"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.014801025390625" d="0.014801025390625" tx="-0.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.301960784313725"/>
+                        <GradientEntry color="#D5DDFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-4 -250[98 -250 172 -176!172 -176[246 -104 246 0!246 0[246 104 172 178!172 178[98 250 -4 250!-4 250[-107 250 -180 178!-180 178[-254 104 -254 0!-254 0[-254 -104 -180 -176!-180 -176[-107 -250 -4 -250"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.01116943359375" d="0.01116943359375" tx="-0.2"/>
+                        </matrix>
+                        <GradientEntry color="#CFECFF" alpha="0.0549019607843137" ratio="0.0196078431372549"/>
+                        <GradientEntry color="#BDCBFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-5 -188[72 -188 128 -133!128 -133[183 -78 183 0!183 0[183 78 128 133!128 133[72 188 -5 188!-5 188[-83 188 -138 133!-138 133[-193 78 -193 0!-193 0[-193 -78 -138 -133!-138 -133[-83 -188 -5 -188"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#D3E87E" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="10" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#BBD7FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!122 -3S2[122 47 86 83!86 83[50 119 0 119!0 119[-52 119 -87 83!-87 83[-123 47 -123 -3!-123 -3[-123 -55 -87 -90!-87 -90[-52 -126 0 -126!0 -126[50 -126 86 -90!86 -90[122 -55 122 -3"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="7" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#FFFFFF.97, -0.0078125" startPointB="#FFFFFF.D3, #FFFFFF.FF" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="#FFFFFF.97, #FFFFFF.D1" anchorPointA="#FFFFFF.B7, -0.2890625" controlPointB="#FFFFFF.D3, #FFFFFF.EB" anchorPointB="#FFFFFF.E1, #FFFFFF.DF"/>
+                    <MorphCurves controlPointA="-0.171875, -0.4140625" anchorPointA="#0.01, -0.4140625" controlPointB="#FFFFFF.ED, #FFFFFF.D1" anchorPointB="#0.01, -0.1796875"/>
+                    <MorphCurves controlPointA="#0.29, -0.4140625" anchorPointA="#0.49, -0.2890625" controlPointB="#0.12, #FFFFFF.D1" anchorPointB="#0.2, #FFFFFF.DF"/>
+                    <MorphCurves controlPointA="#0.69, #FFFFFF.D1" anchorPointA="#0.69, -0.0078125" controlPointB="#0.2E, #FFFFFF.EB" anchorPointB="#0.2E, #FFFFFF.FF"/>
+                    <MorphCurves controlPointA="#0.69, #0.2B" anchorPointA="#0.49, #0.4B" controlPointB="#0.2E, #0.12" anchorPointB="#0.2, #0.2"/>
+                    <MorphCurves controlPointA="#0.29, #0.66" anchorPointA="#0.01, #0.67" controlPointB="#0.12, #0.29" anchorPointB="#0.01, #0.2C"/>
+                    <MorphCurves controlPointA="-0.171875, #0.66" anchorPointA="#FFFFFF.B7, #0.4B" controlPointB="-0.0625, #0.29" anchorPointB="-0.1171875, #0.2"/>
+                    <MorphCurves controlPointA="#FFFFFF.97, #0.2B" anchorPointA="#FFFFFF.97, -0.0078125" controlPointB="-0.171875, #0.12" anchorPointB="#FFFFFF.D3, #FFFFFF.FF"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="#FFFFFF.97, -0.0078125" startPointB="#FFFFFF.D3, #FFFFFF.FF" strokeIndex1="0" strokeIndex2="0" fillIndex1="0">
+                    <MorphCurves controlPointA="#FFFFFF.97, #FFFFFF.D1" anchorPointA="#FFFFFF.B7, -0.2890625" controlPointB="#FFFFFF.D3, #FFFFFF.EB" anchorPointB="#FFFFFF.E1, #FFFFFF.DF"/>
+                    <MorphCurves controlPointA="-0.171875, -0.4140625" anchorPointA="#0.01, -0.4140625" controlPointB="#FFFFFF.ED, #FFFFFF.D1" anchorPointB="#0.01, -0.1796875"/>
+                    <MorphCurves controlPointA="#0.29, -0.4140625" anchorPointA="#0.49, -0.2890625" controlPointB="#0.12, #FFFFFF.D1" anchorPointB="#0.2, #FFFFFF.DF"/>
+                    <MorphCurves controlPointA="#0.69, #FFFFFF.D1" anchorPointA="#0.69, -0.0078125" controlPointB="#0.2E, #FFFFFF.EB" anchorPointB="#0.2E, #FFFFFF.FF"/>
+                    <MorphCurves controlPointA="#0.69, #0.2B" anchorPointA="#0.49, #0.4B" controlPointB="#0.2E, #0.12" anchorPointB="#0.2, #0.2"/>
+                    <MorphCurves controlPointA="#0.29, #0.66" anchorPointA="#0.01, #0.67" controlPointB="#0.12, #0.29" anchorPointB="#0.01, #0.2C"/>
+                    <MorphCurves controlPointA="-0.171875, #0.66" anchorPointA="#FFFFFF.B7, #0.4B" controlPointB="-0.0625, #0.29" anchorPointB="-0.1171875, #0.2"/>
+                    <MorphCurves controlPointA="#FFFFFF.97, #0.2B" anchorPointA="#FFFFFF.97, -0.0078125" controlPointB="-0.171875, #0.12" anchorPointB="#FFFFFF.D3, #FFFFFF.FF"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#ABCDFE" alpha="0.301960784313725"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!105 -2[105 43 73 75!73 75[41 102 1 103!1 103[-44 102 -73 75!-73 75[-105 43 -105 -2!-105 -2[-105 -47 -73 -74!-73 -74[-44 -106 1 -106!1 -106[41 -106 73 -74!73 -74[105 -47 105 -2"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!-45 -1[-45 -21 -31 -33!-31 -33[-19 -47 1 -46!1 -46[18 -47 32 -33!32 -33[46 -21 46 -1!46 -1[46 18 32 32!32 32[18 41 1 44!1 44[-16 41 -30 32!-30 32[-44 18 -45 -1"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 1505" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#FE8784" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!32 -2[32 12 22 22!22 22|-1 31!-1 31[-15 31 -24 22!-24 22[-34 12 -34 -2!-34 -2[-34 -16 -24 -25!-24 -25[-15 -35 -1 -35!-1 -35[12 -35 22 -25!22 -25[32 -16 32 -2"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="6" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!98 -3[96 36 68 65!68 65[41 93 1 93!1 93[-40 93 -68 65!-68 65[-95 36 -95 -3!-95 -3[-95 -45 -68 -72!-68 -72[-40 -100 1 -100!1 -100[41 -100 68 -72!68 -72[96 -45 98 -3"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="11" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="-0.25, -0.0078125" startPointB="-0.1015625, -0.0078125" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="-0.25, #FFFFFF.E5" anchorPointA="-0.171875, #FFFFFF.D1" controlPointB="#FFFFFF.E9, #FFFFFF.F5" anchorPointB="-0.0703125, -0.078125"/>
+                    <MorphCurves controlPointA="#0.1A, #FFFFFF.BF" anchorPointA="#0.2C, #FFFFFF.D1" controlPointB="#0.0A, -0.109375" anchorPointB="#0.12, -0.078125"/>
+                    <MorphCurves controlPointA="#0.3E, #FFFFFF.E5" anchorPointA="#0.3E, -0.0078125" controlPointB="#0.16, #FFFFFF.F5" anchorPointB="#0.1A, -0.0078125"/>
+                    <MorphCurves controlPointA="#0.3E, #0.19" anchorPointA="#0.2C, #0.29" controlPointB="#0.17, #0.08" anchorPointB="#0.12, #0.12"/>
+                    <MorphCurves controlPointA="#0.1A, #0.3D" anchorPointA="#FFFFFF.FF, #0.3D" controlPointB="#0.09, #0.16" anchorPointB="#FFFFFF.FF, #0.19"/>
+                    <MorphCurves controlPointA="-0.1015625, #0.3D" anchorPointA="-0.171875, #0.29" controlPointB="-0.0390625, #0.16" anchorPointB="#FFFFFF.ED, #0.12"/>
+                    <MorphCurves controlPointA="-0.25, #0.19" anchorPointA="-0.25, -0.0078125" controlPointB="#FFFFFF.E9, #0.09" anchorPointB="-0.1015625, -0.0078125"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="-0.25, -0.0078125" startPointB="-0.1015625, -0.0078125" strokeIndex1="0" strokeIndex2="0" fillIndex1="0">
+                    <MorphCurves controlPointA="-0.25, #FFFFFF.E5" anchorPointA="-0.171875, #FFFFFF.D1" controlPointB="#FFFFFF.E9, #FFFFFF.F5" anchorPointB="-0.0703125, -0.078125"/>
+                    <MorphCurves controlPointA="#0.1A, #FFFFFF.BF" anchorPointA="#0.2C, #FFFFFF.D1" controlPointB="#0.0A, -0.109375" anchorPointB="#0.12, -0.078125"/>
+                    <MorphCurves controlPointA="#0.3E, #FFFFFF.E5" anchorPointA="#0.3E, -0.0078125" controlPointB="#0.16, #FFFFFF.F5" anchorPointB="#0.1A, -0.0078125"/>
+                    <MorphCurves controlPointA="#0.3E, #0.19" anchorPointA="#0.2C, #0.29" controlPointB="#0.17, #0.08" anchorPointB="#0.12, #0.12"/>
+                    <MorphCurves controlPointA="#0.1A, #0.3D" anchorPointA="#FFFFFF.FF, #0.3D" controlPointB="#0.09, #0.16" anchorPointB="#FFFFFF.FF, #0.19"/>
+                    <MorphCurves controlPointA="-0.1015625, #0.3D" anchorPointA="-0.171875, #0.29" controlPointB="-0.0390625, #0.16" anchorPointB="#FFFFFF.ED, #0.12"/>
+                    <MorphCurves controlPointA="-0.25, #0.19" anchorPointA="-0.25, -0.0078125" controlPointB="#FFFFFF.E9, #0.09" anchorPointB="-0.1015625, -0.0078125"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!62 -2S2[62 25 44 41!44 41[26 61 -1 61!-1 61[-26 61 -44 41!-44 41[-64 25 -64 -2!-64 -2[-64 -27 -44 -47!-44 -47[-26 -65 -1 -65!-1 -65[26 -65 44 -47!44 -47[62 -27 62 -2"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!-26 -2[-23 -11 -18 -20!-18 -20[-11 -28 0 -28!0 -28[10 -28 18 -20!18 -20[22 -11 26 -2!26 -2[23 8 18 18!18 18[9 22 -1 25!-1 25[-10 22 -19 18!-19 18[-23 9 -26 -2"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#F19948" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.074493408203125" b="0.074493408203125" c="-0.074493408203125" d="-0.074493408203125" tx="4.45" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.169281005859375" b="0.169281005859375" c="-0.169281005859375" d="-0.169281005859375" tx="9.7" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.7890625" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.264068603515625" b="0.264068603515625" c="-0.264068603515625" d="-0.264068603515625" tx="15.1" ty="2.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5703125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.277099609375" b="0.277099609375" c="-0.277099609375" d="-0.277099609375" tx="15.85" ty="2.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.287155151367188" b="0.287155151367188" c="-0.287155151367188" d="-0.287155151367188" tx="16.45" ty="2.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37890625" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.295242309570313" b="0.295242309570313" c="-0.295242309570313" d="-0.295242309570313" tx="16.95" ty="2.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3203125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.30194091796875" b="0.30194091796875" c="-0.30194091796875" d="-0.30194091796875" tx="17.3" ty="2.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.26171875" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.307540893554688" b="0.307540893554688" c="-0.307540893554688" d="-0.307540893554688" tx="17.65" ty="2.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.21875" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.312286376953125" b="0.312286376953125" c="-0.312286376953125" d="-0.312286376953125" tx="17.9" ty="2.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1796875" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.316299438476563" b="0.316299438476563" c="-0.316299438476563" d="-0.316299438476563" tx="18.15" ty="2.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.319747924804688" b="0.319747924804688" c="-0.319747924804688" d="-0.319747924804688" tx="18.4" ty="2.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12109375" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.322677612304688" b="0.322677612304688" c="-0.322677612304688" d="-0.322677612304688" tx="18.5" ty="2.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.08984375" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.325164794921875" b="0.325164794921875" c="-0.325164794921875" d="-0.325164794921875" tx="18.65" ty="2.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.0703125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.3272705078125" b="0.3272705078125" c="-0.3272705078125" d="-0.3272705078125" tx="18.75" ty="2.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.05078125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.329025268554688" b="0.329025268554688" c="-0.329025268554688" d="-0.329025268554688" tx="18.85" ty="2.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.0390625" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.330474853515625" b="0.330474853515625" c="-0.330474853515625" d="-0.330474853515625" tx="18.95" ty="2.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.03125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.3316650390625" b="0.3316650390625" c="-0.3316650390625" d="-0.3316650390625" tx="19" ty="2.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.01953125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.332611083984375" b="0.332611083984375" c="-0.332611083984375" d="-0.332611083984375" tx="19.05" ty="2.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.01171875" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.333328247070313" b="0.333328247070313" c="-0.333328247070313" d="-0.333328247070313" tx="19.1" ty="2.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.01171875" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.3338623046875" b="0.3338623046875" c="-0.3338623046875" d="-0.3338623046875" tx="19.15" ty="2.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.334228515625" b="0.334228515625" c="-0.334228515625" d="-0.334228515625" tx="19.15" ty="2.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#5ED372" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.123321533203125" d="0.123321533203125" tx="-2.85" ty="-3.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.392623901367188" d="0.392623901367188" tx="-9.5" ty="-12.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.73828125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.66192626953125" d="0.66192626953125" tx="-16.1" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.48046875" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.741378784179688" d="0.741378784179688" tx="-18.05" ty="-23.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37109375" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.800399780273438" d="0.800399780273438" tx="-19.5" ty="-25.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.28125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.8460693359375" d="0.8460693359375" tx="-20.65" ty="-26.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.2109375" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.882171630859375" d="0.882171630859375" tx="-21.5" ty="-27.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.16015625" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.91094970703125" d="0.91094970703125" tx="-22.2" ty="-28.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12890625" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9339599609375" d="0.9339599609375" tx="-22.8" ty="-29.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.08984375" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.95220947265625" d="0.95220947265625" tx="-23.25" ty="-30.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.05859375" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.96649169921875" d="0.96649169921875" tx="-23.6" ty="-30.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.0390625" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9774169921875" d="0.9774169921875" tx="-23.85" ty="-30.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.03125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9854736328125" d="0.9854736328125" tx="-24.05" ty="-31.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.01953125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9910888671875" d="0.9910888671875" tx="-24.2" ty="-31.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.01171875" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.994613647460938" d="0.994613647460938" tx="-24.3" ty="-31.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.996429443359375" d="0.996429443359375" tx="-24.35" ty="-31.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 590" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.996917724609375" d="0.996917724609375" tx="-24.3" ty="-31.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.010955810546875" d="0.010955810546875" tx="-0.2"/>
+                        </matrix>
+                        <GradientEntry color="#CCEBFF" alpha="0" ratio="0"/>
+                        <GradientEntry color="#BCCAFE" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-4 -185[72 -185 127 -131!127 -131[181 -77 181 0!181 0[181 77 127 131!127 131[72 185 -4 185!-4 185[-81 185 -135 131!-135 131[-189 77 -189 0!-189 0[-189 -77 -135 -131!-135 -131[-81 -185 -4 -185"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[this.stop();
+this.visible = false;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

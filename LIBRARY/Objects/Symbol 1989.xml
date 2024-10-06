@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 1989" itemID="63c25e2b-00000d9f" lastModified="1675355242">
+  <timeline>
+    <DOMTimeline name="Symbol 1989">
+      <layers>
+        <DOMLayer name="Layer_1" color="#516BF3" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="Graphics/Bitmaps/bitmap1987.png" bitmapIsClipped="true">
+                        <matrix>
+                          <Matrix a="10.24658203125" d="10.24658203125" tx="-39.45" ty="-41.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-789 -830|789 -830!789 -830|789 830!789 830|-789 830!-789 830|-789 -830"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

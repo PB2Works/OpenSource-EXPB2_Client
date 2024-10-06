@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/30.0">
+  <id>pb2-re34-alt-p</id>
+  <versionNumber>4.0</versionNumber>
+  <filename>Plazma Burst 2 Expanded</filename>
+  <description>Plazma Burst 2 with many new features</description>
+  <!-- To localize the description, use the following format for the description element.<description><text xml:lang="en">English App description goes here</text><text xml:lang="fr">French App description goes here</text><text xml:lang="ja">Japanese App description goes here</text></description>-->
+  <name>Plazma Burst 2 Expanded</name>
+  <!-- To localize the name, use the following format for the name element.<name><text xml:lang="en">English App name goes here</text><text xml:lang="fr">French App name goes here</text><text xml:lang="ja">Japanese App name goes here</text></name>-->
+  <copyright/>
+  <initialWindow>
+    <content>pb2_re34_alt_p.swf?l=Ampulse</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <fullScreen>false</fullScreen>
+    <aspectRatio>portrait</aspectRatio>
+    <renderMode>gpu</renderMode>
+    <maximizable>true</maximizable>
+    <minimizable>true</minimizable>
+    <resizable>true</resizable>
+  </initialWindow>
+  <icon/>
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+  <supportedProfiles>desktop extendedDesktop </supportedProfiles>
+  <extensions>
+    <extensionID>com.pb2works.PB2E</extensionID>
+  </extensions>
+</application>

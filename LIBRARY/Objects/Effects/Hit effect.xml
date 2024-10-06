@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Effects/Hit effect" itemID="63d51a92-000013e3" linkageExportForAS="true" linkageClassName="eff_blood_sprite" lastModified="1675697122">
+  <timeline>
+    <DOMTimeline name="Hit effect">
+      <layers>
+        <DOMLayer name="Layer 1" color="#C7CA99">
+          <frames>
+            <DOMFrame index="0" duration="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1998" name="inner_blood_splat1" centerPoint3DX="28.55" centerPoint3DY="22.5">
+                  <matrix>
+                    <Matrix a="0.12664794921875" b="0.12664794921875" c="-0.12664794921875" d="0.12664794921875" tx="3.85" ty="-9.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[this.stop();
+this.visible = false;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#94CD80" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 2000" name="inner_blood_splat2" centerPoint3DX="10.55" centerPoint3DY="5.35">
+                  <matrix>
+                    <Matrix tx="2.95" ty="-2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#87E0FB">
+          <frames>
+            <DOMFrame index="0" duration="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Symbol 1998" name="inner_blood_splat3" centerPoint3DX="20.05" centerPoint3DY="19.9">
+                  <matrix>
+                    <Matrix a="0.306640625" d="0.306640625" tx="-4.65" ty="-12.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

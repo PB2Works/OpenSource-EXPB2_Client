@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 2028" itemID="63c25e2b-00000db3" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2028">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor alpha="0.501960784313725"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!102 -47|76 -101!76 -101|70 -124!70 -124|66 -129!-10 -82|-10 -66!-10 -66|0 -47!0 -47|6 -39!6 -39|19 -25!19 -25|19 -12!19 -12|25 -10!25 -10|32 4!32 4|51 68!51 68|51 76!51 76|45 93!171 -109|166 -104!166 -104|161 -100!161 -100|161 -97!161
+ -97|134 -76!134 -76|130 -72!130 -72|114 -56!114 -56|111 -56!111 -56|102 -47!136 -69|153 -7!153 -7|172 63!172 63|190 106!153 -7|145 1!145 1|140 1!140 1|140 6!140 6|132 6!132 6|132 15!132 15|104 93!59 73[83 73 100 104!100 104[117 135 117
+ 178!45 8|102 -47!-124 -50|-88 -144!-88 -144|-88 -160!-88 -160[-79 -161 -80 -164!-80 -164|-74 -171!-173 -111|-124 -50!-127 1|-124 -15!-124 -15|-124 -50!6 -39|-18 -15!-18 -15|-18 -12!-18 -12|-23 -12!-23 -12|-31 53!-31 53|-31 75!-31 75
+|-39 100!-96 -87|-41 -29!-41 -29|-41 -22!-41 -22|-33 -9!-58 123|-65 104!-65 104|-80 84!-80 84|-83 84!-83 84|-127 1!-151 141|-151 131!-151 131[-160 97 -146 62!-146 62|-127 1"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

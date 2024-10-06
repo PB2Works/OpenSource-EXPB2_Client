@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Psi blade" itemID="63d4fdb3-000013be" lastModified="1695062761" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Psi blade" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer_3" color="#84A9F2" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Regular psi blade">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Xin psi blade" blendMode="add" centerPoint3DX="30.25" centerPoint3DY="9.3">
+                  <matrix>
+                    <Matrix a="0.1553955078125" b="0.731307983398438" c="-0.731307983398438" d="0.1553955078125" tx="-3.95" ty="-8.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#808080"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-198 -268|-240 -389!-240 -389|-181 -410!-181 -410|-138 -289"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!-198 -268|-139 -288!-139 -288|-139 -289!-139 -289|-138 -289"/>
+                    <Edge fillStyle1="2" edges="!-138 -289|-79 -310!-79 -310|-38 -195!-38 -195|21 -216!21 -216|105 22!105 22|46 43!46 43|3 -75!3 -75|-55 -55!-55 -55|-97 -169!-97 -169|-155 -149!-155 -149|-198 -268"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,137 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/Shop item" itemID="63d3ac55-00000be1" linkageExportForAS="true" linkageClassName="shop_tit" lastModified="1674816597">
+  <timeline>
+    <DOMTimeline name="Shop item">
+      <layers>
+        <DOMLayer name="Layer 1" color="#CADF6A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt5" width="118.05" height="10.45" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="467.1" ty="-7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Upgrade Price: $3000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="10.45" rightMargin="5" size="9" bitmapSize="180" face="DejaVuSansMono" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#1BF2B8">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt4" width="110" height="10.45" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="340.1" ty="-7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Item Price: $3000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="10.45" rightMargin="5" size="9" bitmapSize="180" face="DejaVuSansMono" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#C0E5DF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt3" width="104.15" height="10.45" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="220.95" ty="-7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>W</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="10.45" rightMargin="5" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>G</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="10.45" rightMargin="5" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#83EC7D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>R</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="10.45" rightMargin="5" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#E63D40"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FEA0B7">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt2" width="114.45" height="10.45" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="94.5" ty="-7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>W</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="10.45" rightMargin="5" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>G</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="10.45" rightMargin="5" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#83EC7D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>R</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="10.45" rightMargin="5" size="9" bitmapSize="180" face="DejaVuSansMono-Bold" fillColor="#E63D40"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#F49FD7">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt" width="185" height="14" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-191" ty="-7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Rifle</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="10.45" rightMargin="5" size="9" bitmapSize="180" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

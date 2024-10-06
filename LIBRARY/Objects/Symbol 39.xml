@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 39" itemID="63c25e2b-00000ae5" linkageExportForAS="true" linkageClassName="pb2_re34_alt_fla.intro_glow2_12" lastModified="1673918296">
+  <timeline>
+    <DOMTimeline name="Symbol 39">
+      <layers>
+        <DOMLayer name="Layer 1" color="#AB72EB" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[MovieClip(root).register_glow2(this);]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphics/Vectors/Symbol 38" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

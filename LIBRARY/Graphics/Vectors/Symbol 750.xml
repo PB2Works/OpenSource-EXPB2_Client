@@ -1,0 +1,86 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 750" itemID="63c25e2b-00000b67" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 750">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7F97AB"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#CABAAE"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#4E5460"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#635C53"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="3">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#403A36"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2 -58|-37 -50!-37 -50[-79 -39 -92 -24!-92 -24[-113 -1 -129 34!-129 34|-105 57!-105 57|-90 72!-90 72[-50 117 -45 155!-45 155|-7 141!-7 141|51 128!51 128|72 128!72 128[66 92 86 81!86 81|106 76!106 76|98 -15!98 -15|2 -58"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="!-59 46|-46 7!-46 7|47 36!47 36|31 81!31 81|-24 111!-24 111|-59 46"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!28 185|-24 198!-24 198[-82 200 -124 146!-124 146|-125 145!-125 145|-140 190!-140 190|-129 202!-129 202|-86 246!-86 246[-70 252 -1 234!-1 234|22 228!22 228|27 191"/>
+                    <Edge fillStyle0="1" edges="!27 191|28 185"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="3" edges="!61 13|-22 -18"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#3C4454"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#282831"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!19 187|28 179!28 179[46 165 51 137!51 137|51 128!-105 57|-102 86!-102 86[-100 102 -107 112!-107 112|-123 139!-123 139|-124 146!-129 202|-131 206!-131 206[-148 239 -139 251!-139 251[-129 273 -143 280!-143 280|-148 289!-148 289[-117 345
+ -69 336!-69 336[-2 324 -4 297!-4 297[-7 267 -2 239!-2 239|-1 234"/>
+                    <Edge fillStyle0="1" edges="
+!51 128|-7 141!-7 141|-45 155!-45 155[-50 117 -90 72!-90 72|-105 57!-1 234[-70 252 -86 246!-86 246|-129 202!-124 146[-82 200 -24 198!-24 198|19 187"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

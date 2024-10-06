@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphics/Vectors/Symbol 1475" itemID="63c25e2b-00000cbf" symbolType="graphic" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 1475">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0056610107421875" c="-0.0191192626953125" d="0" tx="18.35" ty="-3"/>
+                        </matrix>
+                        <GradientEntry color="#0A7BE6" alpha="0.6" ratio="0"/>
+                        <GradientEntry color="#0A7BE6" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0047149658203125" d="0.0047149658203125" tx="-3.9" ty="-4.25"/>
+                        </matrix>
+                        <GradientEntry color="#BE0007" alpha="0.349019607843137" ratio="0"/>
+                        <GradientEntry color="#BE0007" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!55 -234|55 144!55 144|765 144!765 144|765 -234!765 -234|55 -234"/>
+                    <Edge fillStyle0="2" edges="!17 -164|-164 -164!-164 -164|-164 1!-164 1|17 1!17 1|17 -164"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

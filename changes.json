@@ -1,0 +1,30 @@
+{
+    "feat": {
+        "lua": [
+            "Added timeMS function"
+        ],
+        "hell mode": [
+            "Added time limit for each level",
+            "Added max timewarp."
+        ],
+        "_": [
+            "Added debug timings, openable by F5",
+            "More debug information when load map error happens",
+            "Added experimental Stage3D rendering",
+            "Added a region activation for bullets",
+            "Everyone now can add unofficial game servers to connect to."
+        ],
+        "triggers": [
+            "Added `Set variable 'A' to slot of synchronizer`",
+            "Added `Call trigger 'A' when variable 'B' gets changed by Var synchronize`",
+            "Added `Call trigger 'A' BEFORE variable 'B' gets changed by Var synchronize`",
+            "Added `Disapprove var sync`",
+            "Added `Set variable 'A' to how many times player used time warp.`",
+            "Added `Set max timewarp to variable 'A'`.",
+            "Added `Call trigger 'A' when max timewarp is hit.`"
+        ],
+		"graphics": [
+			"Removed 'rasterize graphics' menu option"
+		]
+    }
+}

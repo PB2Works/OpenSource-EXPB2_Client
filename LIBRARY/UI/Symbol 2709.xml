@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/Symbol 2709" itemID="63c25e2b-00000e81" lastModified="1673129643">
+  <timeline>
+    <DOMTimeline name="Symbol 2709">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FB92AB">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Buttons/Symbol 2708" name="pushme" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" ty="-3.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#E7C7C3" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="70.9" height="6.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-43.7" ty="7.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Play free online games</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="13" letterSpacing="-0.15" lineSpacing="0" lineHeight="6.7" size="6" bitmapSize="120" face="ArialMT" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

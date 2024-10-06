@@ -1,0 +1,104 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Objects/Symbol 2290" itemID="63c25e2b-00000e26" lastModified="1675622647">
+  <timeline>
+    <DOMTimeline name="Symbol 2290">
+      <layers>
+        <DOMLayer name="Layer 1" color="#EAD4F1">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Buttons/Symbol 2119" name="sample3" symbolType="button">
+                  <matrix>
+                    <Matrix ty="34"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#6F6DCB">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Guns/Assault Rifle C-01r" name="sample_no" centerPoint3DX="251.65" centerPoint3DY="71.45">
+                  <matrix>
+                    <Matrix tx="202.85" ty="58.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="-100" contrast="-38" saturation="-100"/>
+                    <GlowFilter blurX="16" blurY="16" color="#000000" inner="true" strength="1.22"/>
+                    <GlowFilter blurX="3" blurY="3" color="#000000" strength="3"/>
+                    <GlowFilter blurX="8" blurY="8" strength="0.3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#92C53A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="hero1tit" width="280.95" height="14" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>%HERO_NAME%'s equipment</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="5" lineSpacing="0" lineHeight="14" rightMargin="5" bitmapSize="240" face="DejaVuSansMono" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#CD4AF4">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/Shop item" name="sample2" centerPoint3DX="570.05" centerPoint3DY="43.75">
+                  <matrix>
+                    <Matrix tx="175" ty="34.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#FAEDD2" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/Guns/Assault Rifle C-01r" name="sample" selected="true" centerPoint3DX="251.65" centerPoint3DY="46.45">
+                  <matrix>
+                    <Matrix tx="202.85" ty="33.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="15" saturation="17" hue="-180" isEnabled="false"/>
+                    <GlowFilter blurX="3" blurY="3" color="#000000" strength="3"/>
+                    <GlowFilter blurX="8" blurY="8" color="#3E91C1" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
